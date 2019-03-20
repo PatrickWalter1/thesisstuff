@@ -1,0 +1,105 @@
+Notes:
+
+email or meeting with jay
+	- how did he deal with records containing NaN
+
+
+DATA PROCESSING:
+
+Changes to dataset:
+-removed the last month record, too many missing values need to find
+-seperated the data set into two files, 2018_Attributes, 2018_Targets
+
+
+DATA COLLECTION:
+some data sets are revised as better estimates for indexes are made
+for example CSUSHPINSA 
+	- need to update the entire column?
+
+
+Tasks:
+
+*Timestampe Formatting! DONE!
+
+*Columns with NaN:
+use real data and linear regression to predict missing values:
+forward:
+STL_JP_CROLL
+STL_JP_HROLL
+STL_JP_WIROD
+STL_JP_REBAR
+WHEAT_CANADI
+MABMM203CAM189N
+MABMM203CAM189
+MANMM101CAM189N
+OILPRICE
+PISPFG01CAM661N
+PISPIG01CAM661N
+
+backward:
+LXXRNSA
+NYXRNSA
+SFXRNSA
+SPCS10RNSA
+RICE_A1
+RICE_25
+MCOILWTICO
+Average of NASDAQ100
+Average of USD12MD156N
+Average of USD6MTD156N
+Average of USD1MTD156N
+Average of USD3MTD156N
+Average of VXOCLS
+
+
+
+classification:
+AUSRECM, CHNRECM
+
+
+
+MODELS:
+
+implement feature selection
+
+try to reduce time back to 1997 cause of taxes in east coast?
+
+Linear Regression by Year
+use X to 2013 to predict 2014
+use X to 2014 to predict 2015
+use X to 2015 to predict 2016
+use X to 2016 to predict 2017
+use X to 2017 to predict 2018
+
+PLOTS:
+need script to compute title dates
+need to show months on x axis and $ values on y axis
+
+
+
+BAGGING!
+- take each year from 99 to 16 (or beyond 99)
+	make a linear regression model for each 
+	- so 17 models, use that on the food17
+	- take the average of all 17 models.
+
+
+- training set of model is 99 to that year, test is that year
+
+- get the mean squared error on the test.
+
+- use each of the 17 models on the most recent year 2017, 
+- take average.
+-take weighted average, where weights are the mean squared error.
+
+further: make the years that are most similar to the current year worth more in the vote
+
+
+What to add to the paper:
+
+- why did i use python
+-why did i use scikit
+- why did i use linear regression
+- mention of limits of regression on timeseries data
+- need a lot more in the linear regression
+

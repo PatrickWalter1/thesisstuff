@@ -1,0 +1,27 @@
+"Table 326-0020 Consumer Price Index (CPI), monthly (2002=100)(2,9)"
+Survey or program details:
+Consumer Price Index - 2301
+Geography,Canada,Canada,Canada,Canada,Canada,Canada,Canada,Canada,Canada,Canada,Canada,Canada
+Products and product groups,Fresh or frozen chicken,Dairy products,Bakery and cereal products (excluding baby food),Bakery products,"Fruit, fruit preparations and nuts",Vegetables and vegetable preparations,Fresh vegetables,Other food products and non-alcoholic beverages,Coffee,Other food preparations,Baby foods,Energy (25)
+Jan-2017,157.3,133.5,150.4,160.3,133.6,130.9,129.5,133.4,134.1,136.7,144.4,155.8
+Feb-2017,152.9,132.9,150.5,160.5,132.5,132.9,131.6,133.9,134.3,138.2,144.8,151.1
+Mar-2017,153.8,133.2,150.7,161.2,129.9,133.9,132.9,134.3,137.4,139.1,144.6,149.8
+Apr-2017,154.5,133.6,151.6,161.3,131.8,132.9,131.7,134.1,138.1,138.9,143.8,157.2
+May-2017,153.6,133.2,151.2,160.7,136.5,136.3,136.1,134.3,136.2,139.9,143.0,151.8
+Jun-2017,158.1,132.3,151.7,162.1,137.4,139.4,139.7,134.0,138.0,139.3,142.9,148.7
+Jul-2017,160.1,132.2,152.3,162.3,139.6,137.8,137.6,134.3,138.3,139.1,141.4,147.8
+Aug-2017,161.2,132.8,153.0,163.3,135.6,132.6,130.7,134.6,137.0,139.5,141.8,150.4
+Sep-2017,164.0,131.9,150.8,162.1,132.0,126.3,122.3,134.3,136.2,138.5,141.6,154.5
+Oct-2017,161.6,131.4,152.9,163.9,127.6,122.9,118.7,134.2,136.0,139.0,142.1,151.7
+Nov-2017,162.6,131.2,151.6,162.8,130.2,132.0,130.0,133.8,135.5,138.5,142.4,157.9
+Dec-2017,160.4,132.2,152.3,164.2,132.3,136.5,136.2,132.4,134.2,137.0,144.1,155.8
+Jan-2018,163.0,132.5,151.0,162.0,136.2,139.9,141.2,134.5,136.0,138.2,143.4,159.5
+Feb-2018,159.1,132.6,152.0,162.3,132.4,139.9,141.0,134.7,136.1,138.7,141.3,159.1
+Footnotes:
+2,"The Consumer Price Index (CPI) is not a cost-of-living index. The objective behind a cost-of-living index is to measure changes in expenditures necessary for consumers to maintain a constant standard of living. The idea is that consumers would normally switch between products as the price relationship of goods changes. If, for example, consumers get the same satisfaction from drinking tea as they do from coffee, then it is possible to substitute tea for coffee if the price of tea falls relative to the price of coffee. The cheaper of the interchangeable products may be chosen. We could compute a cost-of-living index for an individual if we had complete information about that person's taste and spending habits. To do this for a large number of people, let alone the total population of Canada, is impossible. For this reason, regularly published price indexes are based on the fixed-basket concept rather than the cost-of-living concept."
+9,This table replaces CANSIM table 326-0001 which was archived with the release of April 2007 data.
+15,"The goods and services that make up the Consumer Price Index (CPI) are organized according to a hierarchical structure with the ""all-items CPI"" as the top level. Eight major components of goods and services make up the ""all-items CPI"". They are: ""food"", ""shelter"", ""household operations, furnishings and equipment"", ""clothing and footwear"", ""transportation"", ""health and personal care"", ""recreation, education and reading"", and ""alcoholic beverages and tobacco products"". These eight components are broken down into a varying number of sub-groups which are in turn broken down into other sub-groups. Indents are used to identify the components that make up each level of aggregation. For example, the eight major components appear with one indent relative to the ""all-items CPI"" to show that they are combined to obtain the ""all-items CPI"". NOTE: Some items are recombined outside the main structure of the CPI to obtain special aggregates such as ""all-items excluding food and energy"", ""energy"", ""goods"", ""services"", or ""fresh fruit and vegetables"". They are listed after the components of the main structure of the CPI following the last major component entitled ""alcoholic beverages and tobacco products""."
+25,"The special aggregate ""energy"" includes: ""electricity"", ""natural gas"", ""fuel oil and other fuels"", ""gasoline"", and ""fuel, parts and accessories for recreational vehicles""."
+Source:
+"Statistics Canada. Table 326-0020 - Consumer Price Index (CPI), monthly (2002=100 unless otherwise noted)"
+"(accessed: April 01, 2018)"

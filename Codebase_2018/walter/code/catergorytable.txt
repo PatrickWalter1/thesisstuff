@@ -1,0 +1,34 @@
+\begin{table}
+	\caption{The mean absolute error and variance scores for each of the five linear regression models using the top 7 features selected using mutual information between each feature and the target. }
+	\label{tab:example_table}
+    \begin{tabular}{ |p{4cm}||p{4cm}|p{4cm}|p{4cm}|  }
+       \hline
+       \multicolumn{3}{|c|}{Individual Catergory Linear Regression } \\
+       \hline
+       Year    & Mean Absolute Error    & Variance Score (R2)\\
+       \hline
+       Food 17    & 2.84    & -2.85\\
+       restaurants 17    & 3.61    & -13.43\\
+       Vegetables    & 9.56    & -0.59\\
+       Other    & 2.64    & -4.09\\
+       Meat    & 2.13    & -1.56\\
+       Dairy products and eggs    &1.54    & -0.85\\
+       Bakery    & 3.11    & -0.96\\
+       Fruit    & 7.20    & -1.30\\
+       All-items    & 1.48    & -3.63\\
+       Food purchased from stores    & 3.31    & -0.85\\
+       Fresh or frozen beef    & 6.67    & -1.26\\
+       Fresh or frozen pork    & 2.84    & -1.89\\
+       Fresh or frozen chicken    & 1.50    & -0.23\\
+       Dairy products    & 1.50    & -0.98\\
+       Eggs    & 3.48    & -0.31\\
+       Coffee    & 3.89    & -2.55\\
+       Baby foods    & 4.58    & -17.71\\
+       Shelter 18    & 1.95    & -3.55\\
+       Transportation    & 2.1    & -0.50\\
+       Gasoline    & 11.57    & -1.55\\
+       Energy 25    & 8.17    & -2.47\\
+       Fish seafood    & 4.71    & -5.63\\
+       \hline
+    \end{tabular}
+\end{table}

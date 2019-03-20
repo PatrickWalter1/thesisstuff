@@ -1,0 +1,157 @@
+code,name,source
+AUSRECM,OECD based Recession Indicators for Australia from the Peak through the Trough,https://fred.stlouisfed.org/series/AUSRECM
+CHNRECM,OECD based Recession Indicators for China from the Peak through the Trough ,https://fred.stlouisfed.org/series/CHNRECM
+CSUSHPINSA,S&P/Case-Shiller U.S. National Home Price Index,https://fred.stlouisfed.org/series/CSUSHPINSA
+DEUREC,OECD based Recession Indicators for Germany from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/DEUREC
+EUROREC, OECD based Recession Indicators for Euro Area from the Period following the Peak through the Trough (EUROREC),https://fred.stlouisfed.org/series/EUROREC
+GBRRECM, OECD based Recession Indicators for the United Kingdom from the Peak through the Trough (GBRRECM),https://fred.stlouisfed.org/series/GBRRECM
+JPNRECP, OECD based Recession Indicators for Japan from the Peak through the Period preceding the Trough (JPNRECP),https://fred.stlouisfed.org/series/JPNRECP
+LXXRNSA, S&P/Case-Shiller CA-Los Angeles Home Price Index (LXXRNSA),https://fred.stlouisfed.org/series/LXXRNSA
+NYXRNSA, S&P/Case-Shiller NY-New York Home Price Index (NYXRNSA),https://fred.stlouisfed.org/series/NYXRNSA
+SFTPAGRM158SFRBSF, San Francisco Tech Pulse (SFTPAGRM158SFRBSF),https://fred.stlouisfed.org/series/SFTPAGRM158SFRBSF
+SFTPGR12M159SFRBSF,San Francisco Tech Pulse (SFTPGR12M159SFRBSF),
+SFTPGRM157SFRBSF,San Francisco Tech Pulse (SFTPGRM157SFRBSF),https://fred.stlouisfed.org/series/SFTPGRM157SFRBSF
+SFTPINDM114SFRBSF, San Francisco Tech Pulse (SFTPINDM114SFRBSF),https://fred.stlouisfed.org/series/SFTPINDM114SFRBSF
+SFXRNSA,S&P/Case-Shiller CA-San Francisco Home Price Index (SFXRNSA),https://fred.stlouisfed.org/series/SFXRNSA
+SPCS10RNSA, S&P/Case-Shiller 10-City Composite Home Price Index (SPCS10RNSA),https://fred.stlouisfed.org/series/SPCS10RNSA
+USARECM, OECD based Recession Indicators for the United States from the Peak through the Trough (USARECM),https://fred.stlouisfed.org/series/USARECM
+USPHCI, Coincident Economic Activity Index for the United States (USPHCI),https://fred.stlouisfed.org/series/USPHCI
+USREC, NBER based Recession Indicators for the United States from the Period following the Peak through the Trough (USREC),https://fred.stlouisfed.org/series/USREC
+USRECM, NBER based Recession Indicators for the United States from the Peak through the Trough (USRECM),https://fred.stlouisfed.org/series/USRECM
+USRECP, NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough (USRECP),https://fred.stlouisfed.org/series/USRECP
+IBEVERAGES,Beverages World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+IFOOD,Food World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+IFATS_OILS,Fats and Oils World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+IGRAINS,Grains World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+IOTHERFOOD,Other Food World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+IRAW_MATERIAL,Raw Materials World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+ITIMBER,Timber World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+IOTHERRAWMAT,Other Raw Materials World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+IAGRICULTURE,Agriculture World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+ALUMINUM,Aluminum World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+BANANA_US,Banana USA World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+BARLEY,Barley World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+COAL_AUS,Coal Australia World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+COAL_SAFRICA,Coal South Africa World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+COCOA,Cocoa World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+COCONUT_OIL,Coconut Oil World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+COFFEE_ARABIC,Coffee Arabic World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+COFFEE_ROBUS,Coffee Robus World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+COPPER,Copper World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+COPRA,Copra World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+COTTON_A_INDX,,http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+CRUDE_PETRO,Crude Oil Average World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+CRUDE_BRENT,Crude Brent World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+CRUDE_DUBAI,Crude Dubai World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+CRUDE_WTI,Crude WTI World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+DAP,,http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+IENERGY,Energy World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+IFERTILIZERS,,http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+FISH_MEAL,Fish Meal World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+GOLD,Gold World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+GRNUT_OIL,Groundnut Oil World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+IRON_ORE,Iron Ore World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+LEAD,Lead World Bank Commodity Price Data (The Pink Sheet),http://pubdocs.worldbank.org/en/561011486076393416/CMO-Historical-Data-Monthly.xlsx
+LOGS_CMR,Logs Cameroon Bank Commodity Price Data (The Pink Sheet),
+LOGS_MYS,Logs Malaysian World Bank Commodity Price Data ,
+MAIZE,Maize World Bank Commodity Price Data,
+BEEF,Beef World Bank Commodity Price Data,
+CHICKEN,Chicken World Bank Commodity Price Data,
+LAMB,Lamb World Bank Commodity Price Data,
+IMETMIN,Metals and Minerals World Bank Commodity Price Data,
+NGAS_JP,Liquefied Natural Gas Japan World Bank Commodity Price Data,
+NGAS_EUR,Natural Gas Europe World Bank Commodity Price Data,
+NGAS_US,Natural Gas USA World Bank Commodity Price Data,
+NICKEL,Nickel World Bank Commodity Price Data,
+INONFUEL,Non-Energy (Fuels) World Bank Commodity Price Data,
+ORANGE,Oranges World Bank Commodity Price Data,
+PALM_OIL,Palm Oil World Bank Commodity Price Data,
+PHOSROCK,Phosporus Rock World Bank Commodity Price Data,
+PLATINUM,Platinum World Bank Commodity Price Data,
+PLYWOOD,Plywood World Bank Commodity Price Data,
+POTASH,Potash World Bank Commodity Price Data,
+RICE_A1,Rice Thai A.1 World Bank Commodity Price Data,
+RICE_25,Rice Thai 25% World Bank Commodity Price Data,
+RICE_05,Rice Thai 05% World Bank Commodity Price Data,
+RUBBER1_MYSG,Rubber Malaysian World Bank Commodity Price Data,
+SAWNWD_MYS,Sawn Wood Malaysian World Bank Commodity Price Data,
+SHRIMP_MEX,Shrimp Mexican World Bank Commodity Price Data,
+SILVER,Silver World Bank Commodity Price Data,
+SORGHUM,Sorghum World Bank Commodity Price Data,
+SOYBEAN_MEAL,Soybean Meal World Bank Commodity Price Data,
+SOYBEAN_OIL,Soybean Oil World Bank Commodity Price Data,
+SOYBEANS,Soybeans World Bank Commodity Price Data,
+STL_JP_CROLL,Steel Cold Rolled Coilsheet World Bank Commodity Price Data,
+STL_JP_HROLL,Steel Hot Rolled Coilsheet World Bank Commodity Price Data,
+STL_JP_WIROD,Steel Wire Rod World Bank Commodity Price Data,
+STL_JP_REBAR,Steel Rebar World Bank Commodity Price Data,
+SUGAR_EU,Sugar Europe World Bank Commodity Price Data,
+SUGAR_US,Sugar USA World Bank Commodity Price Data,
+SUGAR_WLD,Sugar World World Bank Commodity Price Data,
+TEA_AVG,Tea Average 3 Auctions World Bank Commodity Price Data,
+TEA_COLOMBO,Tea Colombo World Bank Commodity Price Data,
+TEA_KOLKATA,Tea Kolkata World Bank Commodity Price Data,
+TEA_MOMBASA,Tea Mombasa World Bank Commodity Price Data,
+TIN,Tin World Bank Commodity Price Data,
+TOBAC_US,Tobacco US Import World Bank Commodity Price Data,
+TSP,,
+UREA_EE_BULK,,
+WHEAT_CANADI,Wheat Canadian World Bank Commodity Price Data,
+WHEAT_US_HRW,Wheat US HRW World Bank Commodity Price Data,
+WHEAT_US_SRW,Wheat US SRW World Bank Commodity Price Data,
+WOODPULP,Woodpulp World Bank Commodity Price Data,
+ZINC,Zinc World Bank Commodity Price Data,
+CUUR0000SAF112,"Consumer Price Index for All Urban Consumers: Meats, poultry, fish, and eggs",https://fred.stlouisfed.org/series/CUUR0000SAF112
+PCU3114223114224Z,"Producer Price Index by Industry: Specialty Canning: Canned Soups and Stews, Excluding Frozen and Seafood (DISCONTINUED)",
+PCU3117103117101, Producer Price Index by Industry: Seafood Product Preparation and Packaging: Seafood Canning(PCU3117103117101),
+PCU3117103117102,Producer Price Index by Industry: Seafood Product Preparation and Packaging: Fresh and Frozen Seafood Processing,https://fred.stlouisfed.org/series/PCU3117103117102
+WPU022," Producer Price Index by Commodity for Processed Foods and Feeds: Meats, Poultry, and Fish (WPU022)",https://fred.stlouisfed.org/series/WPU022
+EXCHUS,China / U.S. Foreign Exchange Rate (EXCHUS),https://fred.stlouisfed.org/series/EXCHUS
+EXDNUS, Denmark / U.S. Foreign Exchange Rate (EXDNUS),https://fred.stlouisfed.org/series/EXDNUS
+EXHKUS, Hong Kong / U.S. Foreign Exchange Rate (EXHKUS),https://fred.stlouisfed.org/series/EXHKUS
+EXINUS, India / U.S. Foreign Exchange Rate (EXINUS),
+EXJPUS, Japan / U.S. Foreign Exchange Rate (EXJPUS),
+EXKOUS, South Korea / U.S. Foreign Exchange Rate (EXKOUS),
+EXMAUS, Malaysia / U.S. Foreign Exchange Rate (EXMAUS),
+EXNOUS,Norway / U.S. Foreign Exchange Rate (EXNOUS),
+EXSDUS, Sweden / U.S. Foreign Exchange Rate (EXSDUS),
+EXSFUS, South Africa / U.S. Foreign Exchange Rate (EXSFUS),
+EXSIUS, Singapore / U.S. Foreign Exchange Rate (EXSIUS),
+EXSZUS, Switzerland / U.S. Foreign Exchange Rate (EXSZUS),
+EXTAUS," Taiwan / U.S. Foreign Exchange Rate (EXTAUS)	",
+EXTHUS, Thailand / U.S. Foreign Exchange Rate (EXTHUS),
+EXUSAL, U.S. / Australia Foreign Exchange Rate (EXUSAL),
+EXUSNZ, U.S. / New Zealand Foreign Exchange Rate (EXUSNZ),
+EXUSUK, U.S. / U.K. Foreign Exchange Rate (EXUSUK),
+TWEXBMTH,Trade Weighted U.S. Dollar Index: Broad (TWEXBMTH),
+TWEXBPA,Real Trade Weighted U.S. Dollar Index: Broad (TWEXBPA),
+TWEXMMTH,Trade Weighted U.S. Dollar Index: Major Currencies (TWEXMMTH),
+TWEXMPA, Real Trade Weighted U.S. Dollar Index: Major Currencies (TWEXMPA),
+TWEXOMTH,Trade Weighted U.S. Dollar Index: Other Important Trading Partners (TWEXOMTH),
+TWEXOPA, Real Trade Weighted U.S. Dollar Index: Other Important Trading Partners (TWEXOPA),
+MCOILWTICO," Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma (MCOILWTICO)",
+POLVOILUSDM, Global price of Olive Oil (POLVOILUSDM),
+PPOILUSDM, Global price of Palm Oil (PPOILUSDM),
+PROILUSDM,Global price of Rapeseed Oil,
+PSOILUSDM, Global price of Soybeans Oil (PSOILUSDM),
+WPU02,Producer Price Index by Commodity for Processed Foods and Feeds (WPU02),
+WPU02120301, Producer Price Index by Commodity for Processed Foods and Feeds: Wheat Flour (WPU02120301),
+WPU022104," Producer Price Index by Commodity for Processed Foods and Feeds: Pork Products, Fresh, Frozen, or Processed, Except Sausage (WPU022104)",
+WPU0223, Producer Price Index by Commodity for Processed Foods and Feeds: Unprocessed and Packaged Fish(WPU0223),
+WPU023, Producer Price Index by Commodity for Processed Foods and Feeds: Dairy Products (WPU023),
+WPU02420301," Producer Price Index by Commodity for Processed Foods and Feeds: Frozen Concentrated Orange Juice, Consumer and Institutional (WPU02420301)",
+WPU0252, Producer Price Index by Commodity for Processed Foods and Feeds: Raw Cane Sugar and Sugar Cane Mill Products and By-Products (WPU0252),
+WPU02780109," Producer Price Index by Commodity for Processed Foods and Feeds: Margarine, Butter Blends, and Butter Substitutes (WPU02780109)",
+WPUFD4111, Producer Price Index by Commodity for Final Demand: Finished Consumer Foods (WPUFD4111),
+WPUFD41113," Producer Price Index by Commodity for Final Demand: Finished Consumer Foods, Crude (WPUFD41113)",
+UMCSENT, University of Michigan: Consumer Sentiment (UMCSENT),
+USSLIND, Leading Index for the United States (USSLIND),
+Average of RU2000VPR, Russell 2000® Value Price Index (RU2000VPR) Monthly Average,
+Average of RU3000GTR, Russell 3000® Growth Total Market Index (RU3000GTR) Monthly Average,
+Average of RU2000VTR, Russell 2000® Value Total Market Index (RU2000VTR) Monthly Average,
+Average of RU2500TR, Russell 2500 Total Market Index (RU2500TR),
+Average of RU3000PR, Russell 3000® Price Index (RU3000PR),
+Average of RU3000TR, Russell 3000® Total Market Index (RU3000TR),
+Average of RU3000VPR, Russell 3000® Value Price Index (RU3000VPR),
+Average of WILLLRGCAP, Wilshire US Large-Cap Total Market Index (WILLLRGCAP),
+Average of RU3000VTR,,

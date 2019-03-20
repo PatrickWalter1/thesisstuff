@@ -1,0 +1,1709 @@
+Origin,Mode,Year,Value,Tons,Total_miles,Mean_miles
+Alabama,All modes,2012,214750,191500,51227,353
+Alabama,All modes,2007,182785,268926,58222,396
+Alabama,Single modes,2012,186001,183784,44765,182
+Alabama,Single modes,2007,152202,257077,51295,168
+Alabama,Truck,2012,172409,153300,27111,165
+Alabama,Truck,2007,138230,216993,30088,155
+Alabama,For-hire truck,2012,114642,91133,23819,323
+Alabama,For-hire truck,2007,84748,109346,22018,417
+Alabama,Private truck,2012,57767,62167,3292,58
+Alabama,Private truck,2007,53483,107646,8070,71
+Alabama,Rail,2012,10663,27064,15638,732
+Alabama,Rail,2007,12388,37916,20504,700
+Alabama,Water,2012,S,2907,1974,916
+Alabama,Water,2007,710,S,S,476
+Alabama,Inland water,2012,S,S,S,896
+Alabama,Inland water,2007,S,S,S,821
+Alabama,Deep sea,2012,0,0,0,0
+Alabama,Deep sea,2007,S,S,S,S
+Alabama,Multiple Waterways,2012,243,1257,1075,986
+Alabama,Multiple Waterways,2007,X,X,X,X
+Alabama,Air (incl truck and air),2012,1458,26,39,996
+Alabama,Air (incl truck and air),2007,849,22,32,863
+Alabama,Pipeline,2012,448,487,S,S
+Alabama,Pipeline,2007,S,S,S,S
+Alabama,Multiple modes,2012,28749,7716,6462,630
+Alabama,Multiple modes,2007,27897,7465,6381,650
+Alabama,"Parcel, U.S.P.S. or courier",2012,15409,187,109,621
+Alabama,"Parcel, U.S.P.S. or courier",2007,17856,536,256,648
+Alabama,Truck and rail,2012,12464,6674,5965,1206
+Alabama,Truck and rail,2007,8143,4274,3998,893
+Alabama,Truck and water,2012,S,S,S,S
+Alabama,Truck and water,2007,1286,S,1439,1584
+Alabama,Rail and water,2012,0,0,0,0
+Alabama,Rail and water,2007,35,S,85,S
+Alabama,Other multiple modes,2012,0,0,0,0
+Alabama,Other multiple modes,2007,577,S,S,437
+Alabama,Other modes,2012,0,0,0,0
+Alabama,Other modes,2007,2687,4384,547,76
+Alaska,All modes,2012,19848,23958,3108,156
+Alaska,All modes,2007,18184,28743,12633,176
+Alaska,Single modes,2012,18812,23702,2772,77
+Alaska,Single modes,2007,16124,27070,10299,133
+Alaska,Truck,2012,9530,12567,581,50
+Alaska,Truck,2007,8032,15139,665,64
+Alaska,For-hire truck,2012,2883,2398,289,138
+Alaska,For-hire truck,2007,2333,3663,326,239
+Alaska,Private truck,2012,6647,10169,291,26
+Alaska,Private truck,2007,5699,11476,339,34
+Alaska,Rail,2012,1412,5371,1616,357
+Alaska,Rail,2007,S,5214,S,329
+Alaska,Water,2012,3121,2971,408,582
+Alaska,Water,2007,2896,3333,7589,891
+Alaska,Inland water,2012,212,273,11,40
+Alaska,Inland water,2007,S,S,S,S
+Alaska,Deep sea,2012,2909,S,397,584
+Alaska,Deep sea,2007,2885,3330,7589,896
+Alaska,Air (incl truck and air),2012,2695,S,69,585
+Alaska,Air (incl truck and air),2007,1241,S,S,1309
+Alaska,Pipeline,2012,2054,2671,S,S
+Alaska,Pipeline,2007,2091,2997,S,S
+Alaska,Multiple modes,2012,1036,255,337,709
+Alaska,Multiple modes,2007,1050,688,S,615
+Alaska,"Parcel, U.S.P.S. or courier",2012,442,7,4,697
+Alaska,"Parcel, U.S.P.S. or courier",2007,495,12,6,554
+Alaska,Truck and rail,2012,S,S,S,S
+Alaska,Truck and rail,2007,S,S,S,S
+Alaska,Truck and water,2012,581,142,248,1113
+Alaska,Truck and water,2007,488,509,S,1716
+Alaska,Rail and water,2012,3,21,41,1916
+Alaska,Rail and water,2007,S,S,S,S
+Alaska,Other multiple modes,2012,0,0,0,0
+Alaska,Other multiple modes,2007,S,S,S,1501
+Alaska,Other modes,2012,0,0,0,0
+Alaska,Other modes,2007,1011,985,313,212
+Arizona,All modes,2012,147147,117119,16298,819
+Arizona,All modes,2007,164820,175439,24207,780
+Arizona,Single modes,2012,121075,116528,15771,174
+Arizona,Single modes,2007,133824,169571,21717,420
+Arizona,Truck,2012,111311,107309,14027,132
+Arizona,Truck,2007,123371,159157,19702,326
+Arizona,For-hire truck,2012,70781,70581,12092,297
+Arizona,For-hire truck,2007,59880,61391,14339,998
+Arizona,Private truck,2012,40530,36728,1934,35
+Arizona,Private truck,2007,63490,97767,5363,50
+Arizona,Rail,2012,1596,9183,1690,516
+Arizona,Rail,2007,1811,10156,1867,465
+Arizona,Air (incl truck and air),2012,8168,37,54,1356
+Arizona,Air (incl truck and air),2007,8545,112,116,1401
+Arizona,Pipeline,2012,0,0,S,S
+Arizona,Pipeline,2007,S,S,S,S
+Arizona,Multiple modes,2012,26072,591,527,1268
+Arizona,Multiple modes,2007,27542,2600,2126,1352
+Arizona,"Parcel, U.S.P.S. or courier",2012,25894,268,289,1268
+Arizona,"Parcel, U.S.P.S. or courier",2007,26913,317,365,1351
+Arizona,Truck and rail,2012,138,315,214,S
+Arizona,Truck and rail,2007,489,S,1614,1202
+Arizona,Truck and water,2012,S,S,25,5114
+Arizona,Truck and water,2007,S,S,S,3698
+Arizona,Other modes,2012,0,0,0,0
+Arizona,Other modes,2007,3454,3267,364,287
+Arkansas,All modes,2012,114095,121430,30478,334
+Arkansas,All modes,2007,101915,137545,40027,368
+Arkansas,Single modes,2012,105909,113762,26264,191
+Arkansas,Single modes,2007,89938,127792,32891,187
+Arkansas,Truck,2012,97775,99168,18658,184
+Arkansas,Truck,2007,84263,109656,23067,179
+Arkansas,For-hire truck,2012,58953,45724,15548,448
+Arkansas,For-hire truck,2007,54653,53196,19125,599
+Arkansas,Private truck,2012,38821,53444,3109,55
+Arkansas,Private truck,2007,29609,56460,3941,53
+Arkansas,Rail,2012,6142,13475,7362,727
+Arkansas,Rail,2007,3827,14557,8011,663
+Arkansas,Water,2012,480,1102,S,202
+Arkansas,Water,2007,771,3439,1804,531
+Arkansas,Inland water,2012,480,1102,S,202
+Arkansas,Inland water,2007,771,3439,1804,531
+Arkansas,Air (incl truck and air),2012,S,S,S,1066
+Arkansas,Air (incl truck and air),2007,1000,5,7,986
+Arkansas,Pipeline,2012,0,0,S,S
+Arkansas,Pipeline,2007,S,S,S,S
+Arkansas,Multiple modes,2012,8186,7668,4214,590
+Arkansas,Multiple modes,2007,9894,8136,6684,852
+Arkansas,"Parcel, U.S.P.S. or courier",2012,4701,102,64,587
+Arkansas,"Parcel, U.S.P.S. or courier",2007,5300,143,121,850
+Arkansas,Truck and rail,2012,2467,5697,3335,982
+Arkansas,Truck and rail,2007,3905,7107,5877,935
+Arkansas,Truck and water,2012,760,1190,800,S
+Arkansas,Truck and water,2007,516,650,476,2100
+Arkansas,Rail and water,2012,S,S,S,S
+Arkansas,Rail and water,2007,0,0,0,0
+Arkansas,Other multiple modes,2012,0,0,0,0
+Arkansas,Other multiple modes,2007,174,236,210,919
+Arkansas,Other modes,2012,0,0,0,0
+Arkansas,Other modes,2007,2083,1617,452,S
+California,All modes,2012,1476407,718345,171432,907
+California,All modes,2007,1341220,900817,180976,975
+California,Single modes,2012,1184126,699009,152350,400
+California,Single modes,2007,1017796,848278,152625,408
+California,Truck,2012,1007514,591255,120333,367
+California,Truck,2007,893972,738550,131440,361
+California,For-hire truck,2012,624281,297420,106432,896
+California,For-hire truck,2007,501681,308940,106747,962
+California,Private truck,2012,383233,293835,13901,120
+California,Private truck,2007,392291,429610,24693,47
+California,Rail,2012,19843,23515,23757,1414
+California,Rail,2007,15202,22101,16641,832
+California,Water,2012,19400,17419,763,2301
+California,Water,2007,2787,S,673,1882
+California,Inland water,2012,9376,8639,95,S
+California,Inland water,2007,2574,S,475,S
+California,Deep sea,2012,S,S,668,2493
+California,Deep sea,2007,214,S,198,2331
+California,Air (incl truck and air),2012,78193,787,1328,1620
+California,Air (incl truck and air),2007,48014,906,1543,1801
+California,Pipeline,2012,59176,66033,S,S
+California,Pipeline,2007,57820,80403,S,S
+California,Multiple modes,2012,292281,19336,19083,1334
+California,Multiple modes,2007,294387,27161,23132,1447
+California,"Parcel, U.S.P.S. or courier",2012,271957,4084,4701,1334
+California,"Parcel, U.S.P.S. or courier",2007,268455,5213,6030,1447
+California,Truck and rail,2012,16157,13607,11306,823
+California,Truck and rail,2007,13039,8854,12179,1284
+California,Truck and water,2012,3762,1460,2919,2543
+California,Truck and water,2007,S,S,4605,1726
+California,Rail and water,2012,S,184,S,S
+California,Rail and water,2007,S,S,133,1458
+California,Other multiple modes,2012,0,0,0,0
+California,Other multiple modes,2007,S,S,185,S
+California,Other modes,2012,0,0,0,0
+California,Other modes,2007,29037,25378,5219,106
+Colorado,All modes,2012,158800,169335,50450,737
+Colorado,All modes,2007,125093,153635,76804,496
+Colorado,Single modes,2012,123743,163215,46587,198
+Colorado,Single modes,2007,96465,148350,72224,223
+Colorado,Truck,2012,115690,130299,21031,159
+Colorado,Truck,2007,85521,96570,16219,204
+Colorado,For-hire truck,2012,68764,62016,17892,404
+Colorado,For-hire truck,2007,40254,43069,12013,554
+Colorado,Private truck,2012,46926,68283,3139,39
+Colorado,Private truck,2007,45267,53500,4205,123
+Colorado,Rail,2012,2932,32850,25453,650
+Colorado,Rail,2007,3472,50375,55964,1118
+Colorado,Air (incl truck and air),2012,5121,66,103,1328
+Colorado,Air (incl truck and air),2007,6469,21,27,1129
+Colorado,Pipeline,2012,0,0,S,S
+Colorado,Pipeline,2007,1003,1385,S,S
+Colorado,Multiple modes,2012,35058,6120,3863,1040
+Colorado,Multiple modes,2007,26222,3678,4348,898
+Colorado,"Parcel, U.S.P.S. or courier",2012,31332,521,431,1040
+Colorado,"Parcel, U.S.P.S. or courier",2007,23635,459,331,897
+Colorado,Truck and rail,2012,3654,5377,2940,991
+Colorado,Truck and rail,2007,2333,2806,S,1143
+Colorado,Truck and water,2012,58,S,S,3265
+Colorado,Truck and water,2007,S,S,S,5824
+Colorado,Rail and water,2012,14,205,438,2238
+Colorado,Rail and water,2007,16,S,S,1925
+Colorado,Other multiple modes,2012,0,0,0,0
+Colorado,Other multiple modes,2007,S,S,S,S
+Colorado,Other modes,2012,0,0,0,0
+Colorado,Other modes,2007,2406,1607,231,38
+Connecticut,All modes,2012,271125,179846,32455,531
+Connecticut,All modes,2007,142787,79117,11702,641
+Connecticut,Single modes,2012,242366,176799,31158,161
+Connecticut,Single modes,2007,115546,76823,10579,223
+Connecticut,Truck,2012,235893,173097,29153,146
+Connecticut,Truck,2007,103878,75753,9937,194
+Connecticut,For-hire truck,2012,131190,85491,25806,335
+Connecticut,For-hire truck,2007,45002,21237,7092,762
+Connecticut,Private truck,2012,104703,87606,3347,58
+Connecticut,Private truck,2007,58876,54516,2845,46
+Connecticut,Rail,2012,S,2340,1944,318
+Connecticut,Rail,2007,600,990,501,S
+Connecticut,Water,2012,3,150,15,103
+Connecticut,Water,2007,0,0,0,0
+Connecticut,Inland water,2012,3,150,15,103
+Connecticut,Inland water,2007,0,0,0,0
+Connecticut,Air (incl truck and air),2012,5073,60,42,1011
+Connecticut,Air (incl truck and air),2007,11067,S,S,1398
+Connecticut,Pipeline,2012,1180,1151,S,S
+Connecticut,Pipeline,2007,0,0,S,S
+Connecticut,Multiple modes,2012,28759,3048,1297,889
+Connecticut,Multiple modes,2007,25678,1043,1006,980
+Connecticut,"Parcel, U.S.P.S. or courier",2012,28003,483,384,889
+Connecticut,"Parcel, U.S.P.S. or courier",2007,24963,537,383,980
+Connecticut,Truck and rail,2012,S,S,S,S
+Connecticut,Truck and rail,2007,341,S,610,1486
+Connecticut,Truck and water,2012,29,2,7,5303
+Connecticut,Truck and water,2007,373,26,13,1732
+Connecticut,Rail and water,2012,S,S,35,68
+Connecticut,Rail and water,2007,0,0,0,0
+Connecticut,Other multiple modes,2012,0,0,0,0
+Connecticut,Other multiple modes,2007,S,S,S,S
+Connecticut,Other modes,2012,0,0,0,0
+Connecticut,Other modes,2007,1563,1251,117,S
+Delaware,All modes,2012,42768,25537,2786,424
+Delaware,All modes,2007,34757,25679,4422,281
+Delaware,Single modes,2012,35383,24876,2519,427
+Delaware,Single modes,2007,29235,23453,3688,126
+Delaware,Truck,2012,33624,24341,1850,181
+Delaware,Truck,2007,23000,17283,2331,82
+Delaware,For-hire truck,2012,22546,14235,1413,368
+Delaware,For-hire truck,2007,16642,7771,1916,243
+Delaware,Private truck,2012,11079,10105,438,29
+Delaware,Private truck,2007,6358,9512,415,31
+Delaware,Rail,2012,S,S,S,1337
+Delaware,Rail,2007,S,501,468,1983
+Delaware,Water,2012,S,S,S,S
+Delaware,Water,2007,S,S,S,519
+Delaware,Inland water,2012,0,0,0,0
+Delaware,Inland water,2007,S,S,S,S
+Delaware,Deep sea,2012,0,0,0,0
+Delaware,Deep sea,2007,845,1269,S,667
+Delaware,Multiple Waterways,2012,S,S,S,S
+Delaware,Multiple Waterways,2007,X,X,X,X
+Delaware,Air (incl truck and air),2012,850,6,S,3777
+Delaware,Air (incl truck and air),2007,1014,3,4,1295
+Delaware,Pipeline,2012,0,0,S,S
+Delaware,Pipeline,2007,2727,4395,S,S
+Delaware,Multiple modes,2012,7385,662,266,422
+Delaware,Multiple modes,2007,5031,2118,681,366
+Delaware,"Parcel, U.S.P.S. or courier",2012,6941,S,59,422
+Delaware,"Parcel, U.S.P.S. or courier",2007,3218,129,75,365
+Delaware,Truck and rail,2012,444,S,207,S
+Delaware,Truck and rail,2007,391,192,S,1817
+Delaware,Truck and water,2012,S,S,S,S
+Delaware,Truck and water,2007,S,S,S,S
+Delaware,Rail and water,2012,0,0,0,0
+Delaware,Rail and water,2007,S,S,S,S
+Delaware,Other multiple modes,2012,0,0,0,0
+Delaware,Other multiple modes,2007,S,1478,S,172
+Delaware,Other modes,2012,0,0,0,0
+Delaware,Other modes,2007,491,S,53,S
+District of Columbia,All modes,2012,2509,3049,S,S
+District of Columbia,All modes,2007,2876,4505,57,776
+District of Columbia,Single modes,2012,2401,3048,S,S
+District of Columbia,Single modes,2007,2409,4481,50,21
+District of Columbia,Truck,2012,2401,3048,S,S
+District of Columbia,Truck,2007,2407,4481,50,21
+District of Columbia,For-hire truck,2012,754,765,S,S
+District of Columbia,For-hire truck,2007,S,S,S,S
+District of Columbia,Private truck,2012,1647,2284,60,15
+District of Columbia,Private truck,2007,2185,3380,35,19
+District of Columbia,Air (incl truck and air),2012,S,Z,S,S
+District of Columbia,Air (incl truck and air),2007,2,Z,Z,333
+District of Columbia,Multiple modes,2012,108,1,Z,862
+District of Columbia,Multiple modes,2007,365,6,S,969
+District of Columbia,"Parcel, U.S.P.S. or courier",2012,108,1,Z,862
+District of Columbia,"Parcel, U.S.P.S. or courier",2007,365,6,S,969
+District of Columbia,Other modes,2012,0,0,0,0
+District of Columbia,Other modes,2007,102,S,S,987
+Florida,All modes,2012,440516,414015,61698,700
+Florida,All modes,2007,399941,540450,73811,500
+Florida,Single modes,2012,366543,397410,54778,222
+Florida,Single modes,2007,318458,512329,56970,138
+Florida,Truck,2012,339635,372719,42623,177
+Florida,Truck,2007,306131,487983,48420,117
+Florida,For-hire truck,2012,187483,212169,35554,428
+Florida,For-hire truck,2007,138241,203179,35673,407
+Florida,Private truck,2012,152152,160551,7069,46
+Florida,Private truck,2007,167890,284805,12747,45
+Florida,Rail,2012,4761,22244,11514,1054
+Florida,Rail,2007,4870,23910,8346,689
+Florida,Water,2012,85,271,452,S
+Florida,Water,2007,186,151,S,S
+Florida,Inland water,2012,15,146,S,S
+Florida,Inland water,2007,19,7,Z,S
+Florida,Deep sea,2012,50,86,391,2761
+Florida,Deep sea,2007,167,144,S,S
+Florida,Multiple Waterways,2012,S,S,S,S
+Florida,Multiple Waterways,2007,X,X,X,X
+Florida,Air (incl truck and air),2012,19885,317,180,1047
+Florida,Air (incl truck and air),2007,7249,119,121,1327
+Florida,Pipeline,2012,S,S,S,S
+Florida,Pipeline,2007,S,S,S,S
+Florida,Multiple modes,2012,73973,16606,6920,976
+Florida,Multiple modes,2007,70344,21326,16202,1037
+Florida,"Parcel, U.S.P.S. or courier",2012,67381,721,609,977
+Florida,"Parcel, U.S.P.S. or courier",2007,63066,955,765,1038
+Florida,Truck and rail,2012,6177,15745,6249,S
+Florida,Truck and rail,2007,5150,16588,12661,652
+Florida,Truck and water,2012,412,138,61,1162
+Florida,Truck and water,2007,1976,2963,2298,828
+Florida,Rail and water,2012,S,S,S,S
+Florida,Rail and water,2007,S,S,S,S
+Florida,Other multiple modes,2012,0,0,0,0
+Florida,Other multiple modes,2007,137,S,S,S
+Florida,Other modes,2012,0,0,0,0
+Florida,Other modes,2007,11138,6796,640,69
+Georgia,All modes,2012,395725,272760,62439,472
+Georgia,All modes,2007,377718,372777,70173,448
+Georgia,Single modes,2012,346894,264381,56764,262
+Georgia,Single modes,2007,331477,360975,64624,231
+Georgia,Truck,2012,319668,239271,44461,233
+Georgia,Truck,2007,317143,337979,54402,209
+Georgia,For-hire truck,2012,221268,135105,38707,405
+Georgia,For-hire truck,2007,190646,152060,40064,489
+Georgia,Private truck,2012,98400,104166,5754,67
+Georgia,Private truck,2007,126498,185918,14338,64
+Georgia,Rail,2012,9357,23046,12213,1066
+Georgia,Rail,2007,5066,21288,10145,497
+Georgia,Water,2012,S,S,S,S
+Georgia,Water,2007,S,S,S,S
+Georgia,Inland water,2012,S,S,S,S
+Georgia,Inland water,2007,S,S,S,S
+Georgia,Deep sea,2012,0,0,0,0
+Georgia,Deep sea,2007,S,S,S,S
+Georgia,Multiple Waterways,2012,11,3,Z,4
+Georgia,Multiple Waterways,2007,X,X,X,X
+Georgia,Air (incl truck and air),2012,16506,86,87,920
+Georgia,Air (incl truck and air),2007,8303,83,67,1037
+Georgia,Pipeline,2012,S,S,S,S
+Georgia,Pipeline,2007,S,S,S,S
+Georgia,Multiple modes,2012,48831,8379,5674,683
+Georgia,Multiple modes,2007,39711,6351,4541,703
+Georgia,"Parcel, U.S.P.S. or courier",2012,41227,868,526,682
+Georgia,"Parcel, U.S.P.S. or courier",2007,36086,1391,796,703
+Georgia,Truck and rail,2012,7071,7357,4867,1148
+Georgia,Truck and rail,2007,2558,4681,3408,498
+Georgia,Truck and water,2012,470,S,231,2713
+Georgia,Truck and water,2007,970,260,S,1847
+Georgia,Rail and water,2012,S,S,S,S
+Georgia,Rail and water,2007,91,17,S,1042
+Georgia,Other multiple modes,2012,0,0,0,0
+Georgia,Other multiple modes,2007,S,S,S,S
+Georgia,Other modes,2012,0,0,0,0
+Georgia,Other modes,2007,6530,5451,1008,S
+Hawaii,All modes,2012,22156,25730,S,571
+Hawaii,All modes,2007,22043,35270,1547,92
+Hawaii,Single modes,2012,20259,25112,S,236
+Hawaii,Single modes,2007,19373,34452,1096,42
+Hawaii,Truck,2012,11256,14514,199,14
+Hawaii,Truck,2007,10381,18576,242,16
+Hawaii,For-hire truck,2012,3560,6991,71,14
+Hawaii,For-hire truck,2007,1465,6893,90,13
+Hawaii,Private truck,2012,7696,7524,128,14
+Hawaii,Private truck,2007,8916,11683,152,16
+Hawaii,Rail,2012,S,S,S,S
+Hawaii,Rail,2007,0,0,0,0
+Hawaii,Water,2012,602,406,117,212
+Hawaii,Water,2007,469,785,247,237
+Hawaii,Inland water,2012,S,S,S,S
+Hawaii,Inland water,2007,0,0,0,0
+Hawaii,Deep sea,2012,601,405,117,212
+Hawaii,Deep sea,2007,469,785,247,237
+Hawaii,Air (incl truck and air),2012,1027,150,81,2032
+Hawaii,Air (incl truck and air),2007,721,S,118,1248
+Hawaii,Pipeline,2012,7366,10030,S,S
+Hawaii,Pipeline,2007,7801,14889,S,S
+Hawaii,Multiple modes,2012,1896,618,272,1955
+Hawaii,Multiple modes,2007,2098,522,444,1080
+Hawaii,"Parcel, U.S.P.S. or courier",2012,934,17,22,2214
+Hawaii,"Parcel, U.S.P.S. or courier",2007,1076,16,10,1284
+Hawaii,Truck and water,2012,957,597,230,208
+Hawaii,Truck and water,2007,1015,500,382,302
+Hawaii,Other multiple modes,2012,S,S,S,S
+Hawaii,Other multiple modes,2007,S,S,S,S
+Hawaii,Other modes,2012,0,0,0,0
+Hawaii,Other modes,2007,572,297,8,S
+Idaho,All modes,2012,41405,44001,24417,616
+Idaho,All modes,2007,38452,46584,20153,539
+Idaho,Single modes,2012,34412,40977,20692,182
+Idaho,Single modes,2007,30515,43196,17390,220
+Idaho,Truck,2012,28164,33205,10854,132
+Idaho,Truck,2007,25373,34863,9365,180
+Idaho,For-hire truck,2012,16218,16074,9601,361
+Idaho,For-hire truck,2007,12901,14513,8135,835
+Idaho,Private truck,2012,11946,17131,1253,66
+Idaho,Private truck,2007,12472,20350,1230,49
+Idaho,Rail,2012,4611,7770,9834,1464
+Idaho,Rail,2007,2199,5841,7888,1473
+Idaho,Water,2012,0,0,0,0
+Idaho,Water,2007,S,S,S,S
+Idaho,Inland water,2012,0,0,0,0
+Idaho,Inland water,2007,S,S,S,S
+Idaho,Air (incl truck and air),2012,S,2,4,2332
+Idaho,Air (incl truck and air),2007,S,S,S,1836
+Idaho,Pipeline,2012,0,0,S,S
+Idaho,Pipeline,2007,75,S,S,S
+Idaho,Multiple modes,2012,6993,3024,3725,1146
+Idaho,Multiple modes,2007,6860,2270,2578,1105
+Idaho,"Parcel, U.S.P.S. or courier",2012,5821,63,51,1145
+Idaho,"Parcel, U.S.P.S. or courier",2007,5780,123,106,1105
+Idaho,Truck and rail,2012,1147,2925,3562,1664
+Idaho,Truck and rail,2007,907,1741,2223,1351
+Idaho,Truck and water,2012,26,S,S,3060
+Idaho,Truck and water,2007,163,S,S,S
+Idaho,Rail and water,2012,0,0,0,0
+Idaho,Rail and water,2007,Z,2,3,1676
+Idaho,Other multiple modes,2012,0,0,0,0
+Idaho,Other multiple modes,2007,S,S,21,S
+Idaho,Other modes,2012,0,0,0,0
+Idaho,Other modes,2007,1077,1117,185,64
+Illinois,All modes,2012,825191,606874,149574,517
+Illinois,All modes,2007,639177,626898,180924,520
+Illinois,Single modes,2012,685279,581853,133066,310
+Illinois,Single modes,2007,503711,568218,147295,221
+Illinois,Truck,2012,592716,406182,62449,284
+Illinois,Truck,2007,435723,405266,64408,185
+Illinois,For-hire truck,2012,424941,236894,53165,548
+Illinois,For-hire truck,2007,277890,200949,50721,488
+Illinois,Private truck,2012,167775,169288,9284,42
+Illinois,Private truck,2007,157833,204317,13687,62
+Illinois,Rail,2012,34802,110051,47333,515
+Illinois,Rail,2007,21298,64461,38773,680
+Illinois,Water,2012,7349,18391,15551,540
+Illinois,Water,2007,5559,46047,35515,441
+Illinois,Inland water,2012,7180,17980,15018,502
+Illinois,Inland water,2007,5559,46047,35515,441
+Illinois,Multiple Waterways,2012,170,412,533,1254
+Illinois,Multiple Waterways,2007,X,X,X,X
+Illinois,Air (incl truck and air),2012,11390,163,173,951
+Illinois,Air (incl truck and air),2007,7866,93,104,1133
+Illinois,Pipeline,2012,39021,47066,S,S
+Illinois,Pipeline,2007,33265,52351,S,S
+Illinois,Multiple modes,2012,139912,25021,16508,674
+Illinois,Multiple modes,2007,122640,52530,32214,747
+Illinois,"Parcel, U.S.P.S. or courier",2012,112700,2058,1343,674
+Illinois,"Parcel, U.S.P.S. or courier",2007,104717,2070,1409,746
+Illinois,Truck and rail,2012,23373,15119,10989,1083
+Illinois,Truck and rail,2007,14462,14406,11528,854
+Illinois,Truck and water,2012,3210,4191,2365,1435
+Illinois,Truck and water,2007,2922,32087,14656,S
+Illinois,Rail and water,2012,S,S,S,S
+Illinois,Rail and water,2007,80,329,371,3174
+Illinois,Other multiple modes,2012,S,S,S,S
+Illinois,Other multiple modes,2007,460,3637,4250,3830
+Illinois,Other modes,2012,0,0,0,0
+Illinois,Other modes,2007,12826,6150,1415,94
+Indiana,All modes,2012,393998,324668,66176,524
+Indiana,All modes,2007,355503,379374,75389,491
+Indiana,Single modes,2012,346036,316081,61487,240
+Indiana,Single modes,2007,303707,355473,65706,244
+Indiana,Truck,2012,302165,246671,38675,221
+Indiana,Truck,2007,281871,295034,44600,229
+Indiana,For-hire truck,2012,226205,162078,33699,436
+Indiana,For-hire truck,2007,193929,169588,36864,513
+Indiana,Private truck,2012,75960,84593,4976,41
+Indiana,Private truck,2007,87943,125446,7736,59
+Indiana,Rail,2012,17975,41382,17127,632
+Indiana,Rail,2007,19276,56048,20442,644
+Indiana,Water,2012,1217,9234,5491,527
+Indiana,Water,2007,S,3586,S,152
+Indiana,Inland water,2012,169,5617,1170,S
+Indiana,Inland water,2007,S,3586,S,152
+Indiana,Multiple Waterways,2012,1048,3618,4321,1188
+Indiana,Multiple Waterways,2007,X,X,X,X
+Indiana,Air (incl truck and air),2012,7489,S,85,1173
+Indiana,Air (incl truck and air),2007,2046,37,41,923
+Indiana,Pipeline,2012,S,18708,S,S
+Indiana,Pipeline,2007,463,768,S,S
+Indiana,Multiple modes,2012,47962,8588,4688,753
+Indiana,Multiple modes,2007,43337,13455,8805,736
+Indiana,"Parcel, U.S.P.S. or courier",2012,40853,461,315,753
+Indiana,"Parcel, U.S.P.S. or courier",2007,32886,841,558,734
+Indiana,Truck and rail,2012,6900,7508,4165,707
+Indiana,Truck and rail,2007,9542,8014,4938,940
+Indiana,Truck and water,2012,191,S,126,S
+Indiana,Truck and water,2007,279,3223,1693,S
+Indiana,Rail and water,2012,S,S,S,464
+Indiana,Rail and water,2007,S,S,S,S
+Indiana,Other multiple modes,2012,0,0,0,0
+Indiana,Other multiple modes,2007,300,1308,1474,S
+Indiana,Other modes,2012,0,0,0,0
+Indiana,Other modes,2007,8458,S,878,122
+Iowa,All modes,2012,195992,263357,85170,376
+Iowa,All modes,2007,156920,241008,73213,337
+Iowa,Single modes,2012,175404,247764,69070,158
+Iowa,Single modes,2007,139410,229021,61195,151
+Iowa,Truck,2012,151533,199551,23135,145
+Iowa,Truck,2007,126849,191811,27735,141
+Iowa,For-hire truck,2012,97022,103184,18429,327
+Iowa,For-hire truck,2007,80169,92133,21123,364
+Iowa,Private truck,2012,54511,96367,4706,54
+Iowa,Private truck,2007,46680,99678,6613,62
+Iowa,Rail,2012,21700,44718,43035,911
+Iowa,Rail,2007,10203,31307,26200,860
+Iowa,Water,2012,1468,3375,2864,891
+Iowa,Water,2007,1130,5888,7230,1227
+Iowa,Inland water,2012,1468,3375,2864,891
+Iowa,Inland water,2007,1130,5888,7230,1227
+Iowa,Air (incl truck and air),2012,584,22,31,1144
+Iowa,Air (incl truck and air),2007,1227,14,S,1124
+Iowa,Pipeline,2012,119,98,S,S
+Iowa,Pipeline,2007,0,0,S,S
+Iowa,Multiple modes,2012,20588,15593,16100,632
+Iowa,Multiple modes,2007,14415,11008,S,693
+Iowa,"Parcel, U.S.P.S. or courier",2012,11599,260,145,631
+Iowa,"Parcel, U.S.P.S. or courier",2007,10372,285,192,691
+Iowa,Truck and rail,2012,6820,10098,10090,813
+Iowa,Truck and rail,2007,3139,6477,5689,817
+Iowa,Truck and water,2012,S,S,S,2132
+Iowa,Truck and water,2007,S,S,S,2473
+Iowa,Rail and water,2012,107,341,330,2064
+Iowa,Rail and water,2007,S,S,S,1394
+Iowa,Other multiple modes,2012,0,0,0,0
+Iowa,Other multiple modes,2007,S,S,S,2883
+Iowa,Other modes,2012,0,0,0,0
+Iowa,Other modes,2007,3095,978,366,32
+Kansas,All modes,2012,218973,193929,70888,548
+Kansas,All modes,2007,149210,178327,41690,570
+Kansas,Single modes,2012,193076,182944,57160,336
+Kansas,Single modes,2007,126851,173009,37471,233
+Kansas,Truck,2012,180201,151496,24448,309
+Kansas,Truck,2007,105121,148320,22681,218
+Kansas,For-hire truck,2012,124432,93297,21174,584
+Kansas,For-hire truck,2007,67710,95135,18175,398
+Kansas,Private truck,2012,55769,58199,3273,46
+Kansas,Private truck,2007,37411,53186,4506,103
+Kansas,Rail,2012,9672,31416,S,1094
+Kansas,Rail,2007,7362,20229,14628,678
+Kansas,Air (incl truck and air),2012,3203,32,52,1004
+Kansas,Air (incl truck and air),2007,11722,S,85,984
+Kansas,Pipeline,2012,0,0,S,S
+Kansas,Pipeline,2007,2646,4381,S,S
+Kansas,Multiple modes,2012,25897,S,S,684
+Kansas,Multiple modes,2007,18114,4320,4028,819
+Kansas,"Parcel, U.S.P.S. or courier",2012,18618,610,428,683
+Kansas,"Parcel, U.S.P.S. or courier",2007,15158,466,314,818
+Kansas,Truck and rail,2012,6544,S,S,1141
+Kansas,Truck and rail,2007,2779,3840,3670,1272
+Kansas,Truck and water,2012,S,S,99,1681
+Kansas,Truck and water,2007,S,S,26,3261
+Kansas,Rail and water,2012,0,0,0,0
+Kansas,Rail and water,2007,S,S,S,S
+Kansas,Other multiple modes,2012,0,0,0,0
+Kansas,Other multiple modes,2007,S,S,S,S
+Kansas,Other modes,2012,0,0,0,0
+Kansas,Other modes,2007,S,998,191,S
+Kentucky,All modes,2012,268530,285812,88294,733
+Kentucky,All modes,2007,241879,408434,111257,488
+Kentucky,Single modes,2012,228552,276606,80358,506
+Kentucky,Single modes,2007,206704,385685,96765,224
+Kentucky,Truck,2012,199843,151111,25279,426
+Kentucky,Truck,2007,164037,207000,25016,184
+Kentucky,For-hire truck,2012,154152,91989,22336,683
+Kentucky,For-hire truck,2007,104092,120524,19329,335
+Kentucky,Private truck,2012,45691,59122,2943,48
+Kentucky,Private truck,2007,59945,86476,5687,88
+Kentucky,Rail,2012,9047,53718,26802,496
+Kentucky,Rail,2007,S,126808,64033,685
+Kentucky,Water,2012,4513,S,S,414
+Kentucky,Water,2007,2210,36754,7567,251
+Kentucky,Inland water,2012,4030,S,S,372
+Kentucky,Inland water,2007,2210,36754,7567,251
+Kentucky,Multiple Waterways,2012,S,S,S,1115
+Kentucky,Multiple Waterways,2007,X,X,X,X
+Kentucky,Air (incl truck and air),2012,4210,78,80,953
+Kentucky,Air (incl truck and air),2007,1082,37,46,1159
+Kentucky,Pipeline,2012,10938,11984,S,S
+Kentucky,Pipeline,2007,S,S,S,S
+Kentucky,Multiple modes,2012,39978,9206,7936,827
+Kentucky,Multiple modes,2007,17714,19309,14278,758
+Kentucky,"Parcel, U.S.P.S. or courier",2012,31124,569,466,825
+Kentucky,"Parcel, U.S.P.S. or courier",2007,11188,314,214,750
+Kentucky,Truck and rail,2012,8508,3246,3229,1532
+Kentucky,Truck and rail,2007,4834,3539,2992,2004
+Kentucky,Truck and water,2012,59,506,396,2146
+Kentucky,Truck and water,2007,S,7695,5965,2708
+Kentucky,Rail and water,2012,S,S,S,754
+Kentucky,Rail and water,2007,S,S,S,S
+Kentucky,Other multiple modes,2012,S,4,18,4705
+Kentucky,Other multiple modes,2007,860,4486,4255,1624
+Kentucky,Other modes,2012,0,0,0,0
+Kentucky,Other modes,2007,17461,3440,214,S
+Louisiana,All modes,2012,349658,438166,138352,215
+Louisiana,All modes,2007,269932,475520,107733,279
+Louisiana,Single modes,2012,331751,427885,131436,102
+Louisiana,Single modes,2007,233168,428604,86966,191
+Louisiana,Truck,2012,114670,118049,22488,90
+Louisiana,Truck,2007,100403,174256,26703,136
+Louisiana,For-hire truck,2012,68363,73209,19755,247
+Louisiana,For-hire truck,2007,58254,96310,23180,381
+Louisiana,Private truck,2012,46306,44839,2733,40
+Louisiana,Private truck,2007,42149,77946,3523,54
+Louisiana,Rail,2012,36129,47892,37353,789
+Louisiana,Rail,2007,29502,47597,30047,792
+Louisiana,Water,2012,103011,172691,67256,396
+Louisiana,Water,2007,38905,103587,25342,230
+Louisiana,Inland water,2012,70740,126523,36228,370
+Louisiana,Inland water,2007,32834,90159,17838,150
+Louisiana,Deep sea,2012,S,28368,S,628
+Louisiana,Deep sea,2007,S,13428,S,893
+Louisiana,Multiple Waterways,2012,13885,17800,20675,S
+Louisiana,Multiple Waterways,2007,X,X,X,X
+Louisiana,Air (incl truck and air),2012,903,18,27,1478
+Louisiana,Air (incl truck and air),2007,891,S,S,1144
+Louisiana,Pipeline,2012,77038,89236,S,S
+Louisiana,Pipeline,2007,63468,103146,S,S
+Louisiana,Multiple modes,2012,17907,10281,6915,481
+Louisiana,Multiple modes,2007,34164,44263,20191,552
+Louisiana,"Parcel, U.S.P.S. or courier",2012,6657,144,61,472
+Louisiana,"Parcel, U.S.P.S. or courier",2007,8712,231,126,547
+Louisiana,Truck and rail,2012,9338,6215,4439,1225
+Louisiana,Truck and rail,2007,7271,4662,4373,1014
+Louisiana,Truck and water,2012,S,S,S,2085
+Louisiana,Truck and water,2007,7102,13125,3358,S
+Louisiana,Rail and water,2012,S,S,S,S
+Louisiana,Rail and water,2007,S,1564,1579,789
+Louisiana,Other multiple modes,2012,0,0,0,0
+Louisiana,Other multiple modes,2007,10183,24681,10755,513
+Louisiana,Other modes,2012,0,0,0,0
+Louisiana,Other modes,2007,2600,2654,S,69
+Maine,All modes,2012,38545,44888,9628,606
+Maine,All modes,2007,30893,42786,9826,430
+Maine,Single modes,2012,33344,44116,8956,109
+Maine,Single modes,2007,26533,41245,8312,150
+Maine,Truck,2012,30752,41552,7565,98
+Maine,Truck,2007,24982,38853,6488,136
+Maine,For-hire truck,2012,14693,19002,6369,238
+Maine,For-hire truck,2007,11339,12942,5109,521
+Maine,Private truck,2012,16059,22550,1196,49
+Maine,Private truck,2007,13642,25910,1378,50
+Maine,Rail,2012,1037,2170,1385,721
+Maine,Rail,2007,1168,2310,1810,829
+Maine,Water,2012,S,S,S,S
+Maine,Water,2007,S,S,S,S
+Maine,Inland water,2012,0,0,0,0
+Maine,Inland water,2007,S,S,S,S
+Maine,Deep sea,2012,S,S,S,S
+Maine,Deep sea,2007,0,0,0,0
+Maine,Air (incl truck and air),2012,261,3,3,1636
+Maine,Air (incl truck and air),2007,329,4,6,1607
+Maine,Pipeline,2012,22,383,S,S
+Maine,Pipeline,2007,S,S,S,S
+Maine,Multiple modes,2012,5200,772,673,1076
+Maine,Multiple modes,2007,3996,1099,1435,920
+Maine,"Parcel, U.S.P.S. or courier",2012,4639,81,66,1076
+Maine,"Parcel, U.S.P.S. or courier",2007,3181,60,52,919
+Maine,Truck and rail,2012,513,638,598,1208
+Maine,Truck and rail,2007,770,1019,1348,1515
+Maine,Truck and water,2012,S,S,S,S
+Maine,Truck and water,2007,43,S,S,1327
+Maine,Rail and water,2012,0,0,0,0
+Maine,Rail and water,2007,S,S,S,S
+Maine,Other multiple modes,2012,0,0,0,0
+Maine,Other multiple modes,2007,S,S,S,S
+Maine,Other modes,2012,0,0,0,0
+Maine,Other modes,2007,364,S,79,S
+Maryland,All modes,2012,162416,101222,12042,223
+Maryland,All modes,2007,131252,127630,16713,354
+Maryland,Single modes,2012,140960,98796,10567,63
+Maryland,Single modes,2007,110214,124318,14086,94
+Maryland,Truck,2012,138127,94798,9215,59
+Maryland,Truck,2007,105910,121437,12820,83
+Maryland,For-hire truck,2012,78914,46406,7186,224
+Maryland,For-hire truck,2007,52484,51499,9042,216
+Maryland,Private truck,2012,59213,48392,2029,S
+Maryland,Private truck,2007,53426,69938,3778,43
+Maryland,Rail,2012,879,3131,1174,525
+Maryland,Rail,2007,1172,2815,1214,423
+Maryland,Water,2012,S,840,161,345
+Maryland,Water,2007,S,S,S,S
+Maryland,Inland water,2012,S,778,151,346
+Maryland,Inland water,2007,S,S,S,4
+Maryland,Deep sea,2012,0,0,0,0
+Maryland,Deep sea,2007,S,S,S,S
+Maryland,Multiple Waterways,2012,S,S,S,S
+Maryland,Multiple Waterways,2007,X,X,X,X
+Maryland,Air (incl truck and air),2012,1860,20,17,1159
+Maryland,Air (incl truck and air),2007,3109,S,S,1007
+Maryland,Pipeline,2012,S,S,S,S
+Maryland,Pipeline,2007,0,0,S,S
+Maryland,Multiple modes,2012,21457,S,1475,716
+Maryland,Multiple modes,2007,18830,2049,2364,779
+Maryland,"Parcel, U.S.P.S. or courier",2012,20558,441,347,716
+Maryland,"Parcel, U.S.P.S. or courier",2007,17025,428,295,778
+Maryland,Truck and rail,2012,S,S,1127,995
+Maryland,Truck and rail,2007,1553,1337,S,1272
+Maryland,Truck and water,2012,11,Z,1,S
+Maryland,Truck and water,2007,154,S,32,1376
+Maryland,Rail and water,2012,0,0,0,0
+Maryland,Rail and water,2007,97,2,S,212
+Maryland,Other multiple modes,2012,0,0,0,0
+Maryland,Other multiple modes,2007,S,S,S,S
+Maryland,Other modes,2012,0,0,0,0
+Maryland,Other modes,2007,2209,1263,S,78
+Massachusetts,All modes,2012,235932,109368,13472,504
+Massachusetts,All modes,2007,212121,128169,13335,465
+Massachusetts,Single modes,2012,177721,108403,12497,189
+Massachusetts,Single modes,2007,157650,124295,12039,111
+Massachusetts,Truck,2012,159947,107657,12029,137
+Massachusetts,Truck,2007,149201,123511,11364,92
+Massachusetts,For-hire truck,2012,88587,41906,9470,512
+Massachusetts,For-hire truck,2007,83383,50797,8528,501
+Massachusetts,Private truck,2012,71360,65751,2558,30
+Massachusetts,Private truck,2007,65818,72713,2837,27
+Massachusetts,Rail,2012,1251,513,187,725
+Massachusetts,Rail,2007,484,709,606,982
+Massachusetts,Water,2012,S,S,S,S
+Massachusetts,Water,2007,S,S,S,S
+Massachusetts,Deep sea,2012,0,0,0,0
+Massachusetts,Deep sea,2007,S,S,S,S
+Massachusetts,Multiple Waterways,2012,S,S,S,S
+Massachusetts,Multiple Waterways,2007,X,X,X,X
+Massachusetts,Air (incl truck and air),2012,16515,226,281,1197
+Massachusetts,Air (incl truck and air),2007,7959,71,67,1178
+Massachusetts,Pipeline,2012,S,S,S,S
+Massachusetts,Pipeline,2007,0,0,S,S
+Massachusetts,Multiple modes,2012,58210,964,975,821
+Massachusetts,Multiple modes,2007,48332,1196,1094,897
+Massachusetts,"Parcel, U.S.P.S. or courier",2012,57838,554,419,820
+Massachusetts,"Parcel, U.S.P.S. or courier",2007,46585,952,732,896
+Massachusetts,Truck and rail,2012,364,402,552,1266
+Massachusetts,Truck and rail,2007,1385,181,295,1055
+Massachusetts,Truck and water,2012,8,S,S,2648
+Massachusetts,Truck and water,2007,362,63,67,S
+Massachusetts,Other modes,2012,0,0,0,0
+Massachusetts,Other modes,2007,6139,2678,202,142
+Michigan,All modes,2012,427177,258965,61455,582
+Michigan,All modes,2007,409172,282752,66965,430
+Michigan,Single modes,2012,354140,243432,52526,436
+Michigan,Single modes,2007,343129,258066,54480,186
+Michigan,Truck,2012,334655,169882,30937,324
+Michigan,Truck,2007,303534,204416,38094,168
+Michigan,For-hire truck,2012,223750,89968,26008,609
+Michigan,For-hire truck,2007,171531,94217,30129,538
+Michigan,Private truck,2012,110904,79913,4929,51
+Michigan,Private truck,2007,132004,110200,7965,55
+Michigan,Rail,2012,8095,36797,9388,354
+Michigan,Rail,2007,32814,30389,10396,840
+Michigan,Water,2012,441,31751,11508,348
+Michigan,Water,2007,300,16823,5725,258
+Michigan,Inland water,2012,0,0,0,0
+Michigan,Inland water,2007,S,S,S,S
+Michigan,Great Lakes,2012,272,29380,10811,358
+Michigan,Great Lakes,2007,241,16215,5502,253
+Michigan,Multiple Waterways,2012,169,2371,697,298
+Michigan,Multiple Waterways,2007,X,X,X,X
+Michigan,Air (incl truck and air),2012,6515,184,216,1123
+Michigan,Air (incl truck and air),2007,2977,41,45,1073
+Michigan,Pipeline,2012,4433,4819,S,S
+Michigan,Pipeline,2007,S,S,S,S
+Michigan,Multiple modes,2012,73038,15532,8929,789
+Michigan,Multiple modes,2007,61199,20403,11094,734
+Michigan,"Parcel, U.S.P.S. or courier",2012,40558,652,487,788
+Michigan,"Parcel, U.S.P.S. or courier",2007,38414,858,617,728
+Michigan,Truck and rail,2012,31862,5606,5094,1036
+Michigan,Truck and rail,2007,22236,7243,5597,1475
+Michigan,Truck and water,2012,308,8302,3065,2352
+Michigan,Truck and water,2007,213,5568,S,3623
+Michigan,Rail and water,2012,S,S,225,3356
+Michigan,Rail and water,2007,89,16,102,7629
+Michigan,Other multiple modes,2012,S,S,S,S
+Michigan,Other multiple modes,2007,247,6718,2011,3200
+Michigan,Other modes,2012,0,0,0,0
+Michigan,Other modes,2007,4845,4282,1392,71
+Minnesota,All modes,2012,270394,291694,101362,998
+Minnesota,All modes,2007,237290,285018,114425,639
+Minnesota,Single modes,2012,224018,272987,82823,313
+Minnesota,Single modes,2007,174729,248002,81536,200
+Minnesota,Truck,2012,198889,188948,30834,282
+Minnesota,Truck,2007,151458,165312,31270,162
+Minnesota,For-hire truck,2012,134161,98817,26144,613
+Minnesota,For-hire truck,2007,101195,91385,25667,581
+Minnesota,Private truck,2012,64728,90131,4690,53
+Minnesota,Private truck,2007,50263,73928,5602,42
+Minnesota,Rail,2012,14751,73138,42627,931
+Minnesota,Rail,2007,9151,60364,37065,770
+Minnesota,Water,2012,1678,10654,9283,1530
+Minnesota,Water,2007,1555,8610,13055,1177
+Minnesota,Inland water,2012,1106,2898,4565,1612
+Minnesota,Inland water,2007,1029,7246,12169,1550
+Minnesota,Great Lakes,2012,153,2023,148,73
+Minnesota,Great Lakes,2007,S,S,S,S
+Minnesota,Deep sea,2012,0,0,0,0
+Minnesota,Deep sea,2007,S,S,S,S
+Minnesota,Multiple Waterways,2012,419,5733,4570,797
+Minnesota,Multiple Waterways,2007,X,X,X,X
+Minnesota,Air (incl truck and air),2012,8625,58,77,1136
+Minnesota,Air (incl truck and air),2007,5607,48,56,1304
+Minnesota,Pipeline,2012,S,190,S,S
+Minnesota,Pipeline,2007,6960,13668,S,S
+Minnesota,Multiple modes,2012,46376,18707,18539,1151
+Minnesota,Multiple modes,2007,57661,33796,32324,1016
+Minnesota,"Parcel, U.S.P.S. or courier",2012,42373,955,826,1151
+Minnesota,"Parcel, U.S.P.S. or courier",2007,49990,852,715,1015
+Minnesota,Truck and rail,2012,2940,4075,4347,1289
+Minnesota,Truck and rail,2007,5801,12760,10193,1239
+Minnesota,Truck and water,2012,879,S,S,3417
+Minnesota,Truck and water,2007,1700,17583,19218,2954
+Minnesota,Rail and water,2012,185,3948,4654,1179
+Minnesota,Rail and water,2007,S,S,S,S
+Minnesota,Other multiple modes,2012,0,0,0,0
+Minnesota,Other multiple modes,2007,S,S,S,S
+Minnesota,Other modes,2012,0,0,0,0
+Minnesota,Other modes,2007,4900,3220,564,81
+Mississippi,All modes,2012,140334,119048,24662,424
+Mississippi,All modes,2007,90753,127526,34461,711
+Mississippi,Single modes,2012,131269,116017,22193,293
+Mississippi,Single modes,2007,82099,120639,30340,249
+Mississippi,Truck,2012,117393,106851,16410,281
+Mississippi,Truck,2007,69408,85961,17894,240
+Mississippi,For-hire truck,2012,62166,72515,13435,510
+Mississippi,For-hire truck,2007,46436,40522,13527,591
+Mississippi,Private truck,2012,55227,34335,2975,116
+Mississippi,Private truck,2007,22972,45440,4367,60
+Mississippi,Rail,2012,3301,7430,5201,666
+Mississippi,Rail,2007,3617,7582,5440,801
+Mississippi,Water,2012,7853,1593,S,S
+Mississippi,Water,2007,4814,16523,5895,S
+Mississippi,Inland water,2012,736,1385,S,S
+Mississippi,Inland water,2007,2780,10427,3218,S
+Mississippi,Deep sea,2012,S,S,S,S
+Mississippi,Deep sea,2007,2034,6096,2677,345
+Mississippi,Multiple Waterways,2012,S,S,S,S
+Mississippi,Multiple Waterways,2007,X,X,X,X
+Mississippi,Air (incl truck and air),2012,S,S,S,1007
+Mississippi,Air (incl truck and air),2007,304,4,4,1085
+Mississippi,Pipeline,2012,4,137,S,S
+Mississippi,Pipeline,2007,3957,10568,S,S
+Mississippi,Multiple modes,2012,9065,3031,2469,627
+Mississippi,Multiple modes,2007,6791,5679,3786,1156
+Mississippi,"Parcel, U.S.P.S. or courier",2012,7089,187,109,626
+Mississippi,"Parcel, U.S.P.S. or courier",2007,3808,189,202,1155
+Mississippi,Truck and rail,2012,1050,1248,1451,1063
+Mississippi,Truck and rail,2007,1550,2144,1785,1160
+Mississippi,Truck and water,2012,S,S,S,677
+Mississippi,Truck and water,2007,S,S,S,1682
+Mississippi,Rail and water,2012,S,S,S,649
+Mississippi,Rail and water,2007,S,S,S,S
+Mississippi,Other multiple modes,2012,0,0,0,0
+Mississippi,Other multiple modes,2007,383,789,239,1408
+Mississippi,Other modes,2012,0,0,0,0
+Mississippi,Other modes,2007,1862,1207,335,85
+Missouri,All modes,2012,242404,197077,47770,529
+Missouri,All modes,2007,225954,305184,77099,494
+Missouri,Single modes,2012,199887,187560,41766,162
+Missouri,Single modes,2007,176493,282414,68407,171
+Missouri,Truck,2012,181115,159925,26368,152
+Missouri,Truck,2007,162243,229610,32641,153
+Missouri,For-hire truck,2012,117976,75952,21769,396
+Missouri,For-hire truck,2007,94645,93529,23773,384
+Missouri,Private truck,2012,63139,83973,4600,51
+Missouri,Private truck,2007,67598,136080,8868,68
+Missouri,Rail,2012,8330,15789,7628,600
+Missouri,Rail,2007,7221,21668,13575,670
+Missouri,Water,2012,2067,11812,7726,601
+Missouri,Water,2007,2966,30668,22107,602
+Missouri,Inland water,2012,2032,9945,5604,539
+Missouri,Inland water,2007,2966,30668,22107,602
+Missouri,Multiple Waterways,2012,35,1867,2122,1142
+Missouri,Multiple Waterways,2007,X,X,X,X
+Missouri,Air (incl truck and air),2012,S,34,44,1096
+Missouri,Air (incl truck and air),2007,S,79,72,717
+Missouri,Pipeline,2012,0,0,S,S
+Missouri,Pipeline,2007,S,S,S,S
+Missouri,Multiple modes,2012,42517,9517,6004,739
+Missouri,Multiple modes,2007,36704,13233,7178,784
+Missouri,"Parcel, U.S.P.S. or courier",2012,38004,563,388,739
+Missouri,"Parcel, U.S.P.S. or courier",2007,31130,933,690,784
+Missouri,Truck and rail,2012,3163,4351,2946,885
+Missouri,Truck and rail,2007,5322,5904,2906,795
+Missouri,Truck and water,2012,1255,4328,2587,1242
+Missouri,Truck and water,2007,149,5145,2494,1760
+Missouri,Rail and water,2012,S,S,S,S
+Missouri,Rail and water,2007,53,7,9,1353
+Missouri,Other multiple modes,2012,0,0,0,0
+Missouri,Other multiple modes,2007,S,S,S,S
+Missouri,Other modes,2012,0,0,0,0
+Missouri,Other modes,2007,S,S,S,300
+Montana,All modes,2012,30561,90511,73468,479
+Montana,All modes,2007,21583,85244,62620,251
+Montana,Single modes,2012,28023,89654,72512,169
+Montana,Single modes,2007,19274,67920,49650,167
+Montana,Truck,2012,17385,24882,4602,138
+Montana,Truck,2007,12699,21772,5239,118
+Montana,For-hire truck,2012,8057,10265,3442,261
+Montana,For-hire truck,2007,5524,7568,3362,285
+Montana,Private truck,2012,9327,14617,1161,88
+Montana,Private truck,2007,7175,14204,1877,82
+Montana,Rail,2012,4697,59712,67405,1080
+Montana,Rail,2007,3259,40923,43862,997
+Montana,Air (incl truck and air),2012,1058,4,6,1798
+Montana,Air (incl truck and air),2007,106,S,S,2418
+Montana,Pipeline,2012,4883,5056,S,S
+Montana,Pipeline,2007,3211,5224,S,S
+Montana,Multiple modes,2012,2538,856,956,831
+Montana,Multiple modes,2007,1975,5030,12411,S
+Montana,"Parcel, U.S.P.S. or courier",2012,2267,53,45,830
+Montana,"Parcel, U.S.P.S. or courier",2007,1402,42,35,S
+Montana,Truck and rail,2012,266,797,903,1104
+Montana,Truck and rail,2007,443,1047,1393,1316
+Montana,Truck and water,2012,5,S,S,1777
+Montana,Truck and water,2007,S,S,S,2627
+Montana,Rail and water,2012,0,0,0,0
+Montana,Rail and water,2007,41,3837,S,2822
+Montana,Other modes,2012,0,0,0,0
+Montana,Other modes,2007,333,S,S,56
+Nebraska,All modes,2012,109147,146474,66851,436
+Nebraska,All modes,2007,76148,161358,50805,895
+Nebraska,Single modes,2012,99298,141619,61227,117
+Nebraska,Single modes,2007,63621,156931,46702,205
+Nebraska,Truck,2012,81467,88699,13489,107
+Nebraska,Truck,2007,56836,131667,14568,161
+Nebraska,For-hire truck,2012,55616,52178,11502,252
+Nebraska,For-hire truck,2007,39669,54361,11647,360
+Nebraska,Private truck,2012,25850,36521,1987,54
+Nebraska,Private truck,2007,17167,S,2922,49
+Nebraska,Rail,2012,17436,52818,47641,860
+Nebraska,Rail,2007,6618,25212,32123,1112
+Nebraska,Air (incl truck and air),2012,395,S,S,1119
+Nebraska,Air (incl truck and air),2007,153,7,10,1369
+Nebraska,Pipeline,2012,0,0,S,S
+Nebraska,Pipeline,2007,S,S,S,S
+Nebraska,Multiple modes,2012,9850,4855,5624,856
+Nebraska,Multiple modes,2007,11025,3193,3658,1020
+Nebraska,"Parcel, U.S.P.S. or courier",2012,7281,128,86,855
+Nebraska,"Parcel, U.S.P.S. or courier",2007,9858,818,789,1020
+Nebraska,Truck and rail,2012,2564,4727,5537,1102
+Nebraska,Truck and rail,2007,1147,2372,2859,1177
+Nebraska,Truck and water,2012,4,1,2,3421
+Nebraska,Truck and water,2007,S,S,S,S
+Nebraska,Other modes,2012,0,0,0,0
+Nebraska,Other modes,2007,1503,1234,444,88
+Nevada,All modes,2012,69591,40254,10176,975
+Nevada,All modes,2007,53126,62780,9531,864
+Nevada,Single modes,2012,55390,39749,9443,470
+Nevada,Single modes,2007,42251,59717,8517,181
+Nevada,Truck,2012,48866,38179,7514,430
+Nevada,Truck,2007,41574,58724,7751,143
+Nevada,For-hire truck,2012,33439,18161,6143,855
+Nevada,For-hire truck,2007,24182,15117,5910,654
+Nevada,Private truck,2012,15428,20018,1371,47
+Nevada,Private truck,2007,17392,43607,1841,43
+Nevada,Rail,2012,S,1556,1899,1263
+Nevada,Rail,2007,47,964,723,713
+Nevada,Air (incl truck and air),2012,3457,15,30,1665
+Nevada,Air (incl truck and air),2007,630,S,43,1675
+Nevada,Multiple modes,2012,14201,505,733,1300
+Nevada,Multiple modes,2007,9783,1005,947,1392
+Nevada,"Parcel, U.S.P.S. or courier",2012,14091,259,232,1299
+Nevada,"Parcel, U.S.P.S. or courier",2007,9577,274,300,1391
+Nevada,Truck and rail,2012,61,142,133,2181
+Nevada,Truck and rail,2007,50,649,400,1052
+Nevada,Truck and water,2012,S,S,S,3512
+Nevada,Truck and water,2007,150,36,98,2767
+Nevada,Rail and water,2012,0,0,0,0
+Nevada,Rail and water,2007,3,46,148,3240
+Nevada,Other multiple modes,2012,0,0,0,0
+Nevada,Other multiple modes,2007,S,S,S,S
+Nevada,Other modes,2012,0,0,0,0
+Nevada,Other modes,2007,1092,S,68,S
+New Hampshire,All modes,2012,42805,26554,3474,661
+New Hampshire,All modes,2007,38482,32678,3311,732
+New Hampshire,Single modes,2012,34013,26415,3354,161
+New Hampshire,Single modes,2007,27760,30351,2913,226
+New Hampshire,Truck,2012,32443,26404,3344,145
+New Hampshire,Truck,2007,24286,30334,2891,199
+New Hampshire,For-hire truck,2012,14790,8379,2627,512
+New Hampshire,For-hire truck,2007,12393,11924,2135,671
+New Hampshire,Private truck,2012,17653,18025,717,49
+New Hampshire,Private truck,2007,11893,18410,757,56
+New Hampshire,Rail,2012,S,S,S,S
+New Hampshire,Rail,2007,9,5,11,1784
+New Hampshire,Air (incl truck and air),2012,1570,9,10,1078
+New Hampshire,Air (incl truck and air),2007,3465,11,11,1118
+New Hampshire,Multiple modes,2012,8792,139,120,1097
+New Hampshire,Multiple modes,2007,10156,S,305,1234
+New Hampshire,"Parcel, U.S.P.S. or courier",2012,8593,81,84,1098
+New Hampshire,"Parcel, U.S.P.S. or courier",2007,10035,140,127,1236
+New Hampshire,Truck and rail,2012,191,S,36,S
+New Hampshire,Truck and rail,2007,S,S,S,S
+New Hampshire,Truck and water,2012,7,1,Z,244
+New Hampshire,Truck and water,2007,67,S,S,749
+New Hampshire,Other modes,2012,0,0,0,0
+New Hampshire,Other modes,2007,566,1558,93,S
+New Jersey,All modes,2012,450795,219863,35599,597
+New Jersey,All modes,2007,422581,230155,37087,624
+New Jersey,Single modes,2012,368872,217063,33656,249
+New Jersey,Single modes,2007,336605,213664,29447,240
+New Jersey,Truck,2012,338763,187592,30544,229
+New Jersey,Truck,2007,303512,173566,23719,225
+New Jersey,For-hire truck,2012,218985,90316,27073,528
+New Jersey,For-hire truck,2007,191416,72036,18989,617
+New Jersey,Private truck,2012,119778,97276,3471,39
+New Jersey,Private truck,2007,112096,101529,4730,41
+New Jersey,Rail,2012,3910,3576,2785,811
+New Jersey,Rail,2007,3393,5477,5028,1123
+New Jersey,Water,2012,6362,11963,207,S
+New Jersey,Water,2007,S,S,S,59
+New Jersey,Inland water,2012,4465,6949,S,S
+New Jersey,Inland water,2007,S,S,S,S
+New Jersey,Deep sea,2012,S,S,S,S
+New Jersey,Deep sea,2007,466,225,14,75
+New Jersey,Multiple Waterways,2012,S,S,S,S
+New Jersey,Multiple Waterways,2007,X,X,X,X
+New Jersey,Air (incl truck and air),2012,9811,147,67,962
+New Jersey,Air (incl truck and air),2007,9466,S,148,1112
+New Jersey,Pipeline,2012,S,S,S,S
+New Jersey,Pipeline,2007,11716,17598,S,S
+New Jersey,Multiple modes,2012,81924,2801,1943,803
+New Jersey,Multiple modes,2007,76073,13466,6245,882
+New Jersey,"Parcel, U.S.P.S. or courier",2012,80091,1195,858,803
+New Jersey,"Parcel, U.S.P.S. or courier",2007,68973,1534,1136,881
+New Jersey,Truck and rail,2012,1676,1522,S,635
+New Jersey,Truck and rail,2007,2473,1297,3092,1392
+New Jersey,Truck and water,2012,156,S,S,3469
+New Jersey,Truck and water,2007,1585,S,S,2440
+New Jersey,Rail and water,2012,0,0,0,0
+New Jersey,Rail and water,2007,S,S,S,S
+New Jersey,Other multiple modes,2012,0,0,0,0
+New Jersey,Other multiple modes,2007,3042,8984,943,86
+New Jersey,Other modes,2012,0,0,0,0
+New Jersey,Other modes,2007,9903,3025,S,144
+New Mexico,All modes,2012,48793,48681,7472,339
+New Mexico,All modes,2007,31388,62650,9470,478
+New Mexico,Single modes,2012,45526,41944,6871,159
+New Mexico,Single modes,2007,24552,48874,8059,123
+New Mexico,Truck,2012,35265,27264,4906,145
+New Mexico,Truck,2007,20285,25253,4041,109
+New Mexico,For-hire truck,2012,18212,6619,3169,443
+New Mexico,For-hire truck,2007,8632,7659,2681,440
+New Mexico,Private truck,2012,17053,20645,1736,82
+New Mexico,Private truck,2007,11653,17594,1360,73
+New Mexico,Rail,2012,1338,14674,1957,888
+New Mexico,Rail,2007,1404,S,3719,731
+New Mexico,Water,2012,0,0,0,0
+New Mexico,Water,2007,S,S,S,S
+New Mexico,Inland water,2012,0,0,0,0
+New Mexico,Inland water,2007,S,S,S,S
+New Mexico,Air (incl truck and air),2012,S,5,8,1673
+New Mexico,Air (incl truck and air),2007,849,2,3,1423
+New Mexico,Pipeline,2012,0,0,S,S
+New Mexico,Pipeline,2007,2015,1646,S,S
+New Mexico,Multiple modes,2012,2947,724,S,711
+New Mexico,Multiple modes,2007,5718,S,S,1008
+New Mexico,"Parcel, U.S.P.S. or courier",2012,2589,45,28,711
+New Mexico,"Parcel, U.S.P.S. or courier",2007,5582,62,55,1007
+New Mexico,Truck and rail,2012,S,S,S,642
+New Mexico,Truck and rail,2007,116,S,S,1236
+New Mexico,Truck and water,2012,S,S,10,3330
+New Mexico,Truck and water,2007,S,S,S,7933
+New Mexico,Rail and water,2012,S,S,S,S
+New Mexico,Rail and water,2007,0,0,0,0
+New Mexico,Other modes,2012,S,S,S,S
+New Mexico,Other modes,2007,1118,S,S,S
+New York,All modes,2012,545050,317630,42457,537
+New York,All modes,2007,549674,335782,73793,443
+New York,Single modes,2012,436967,313386,38192,197
+New York,Single modes,2007,408041,319128,56176,154
+New York,Truck,2012,416636,307907,35281,178
+New York,Truck,2007,394628,310977,52917,127
+New York,For-hire truck,2012,239728,127751,28335,487
+New York,For-hire truck,2007,200253,117826,41997,545
+New York,Private truck,2012,176908,180156,6946,33
+New York,Private truck,2007,194375,193151,10919,45
+New York,Rail,2012,2425,4513,2704,611
+New York,Rail,2007,2759,6410,3144,717
+New York,Water,2012,0,0,0,0
+New York,Water,2007,S,S,S,S
+New York,Inland water,2012,0,0,0,0
+New York,Inland water,2007,S,S,S,S
+New York,Air (incl truck and air),2012,16915,199,169,1221
+New York,Air (incl truck and air),2007,10293,93,108,1193
+New York,Pipeline,2012,S,767,S,S
+New York,Pipeline,2007,S,1624,S,S
+New York,Multiple modes,2012,108083,4244,4265,773
+New York,Multiple modes,2007,127459,11018,S,710
+New York,"Parcel, U.S.P.S. or courier",2012,104078,1473,1119,773
+New York,"Parcel, U.S.P.S. or courier",2007,119215,1943,1505,710
+New York,Truck and rail,2012,2581,2585,3036,1113
+New York,Truck and rail,2007,6101,5779,S,1093
+New York,Truck and water,2012,S,S,S,S
+New York,Truck and water,2007,1924,S,S,2006
+New York,Rail and water,2012,0,0,0,0
+New York,Rail and water,2007,S,S,15,S
+New York,Other multiple modes,2012,0,0,0,0
+New York,Other multiple modes,2007,210,S,85,692
+New York,Other modes,2012,0,0,0,0
+New York,Other modes,2007,14174,S,673,110
+North Carolina,All modes,2012,385732,220669,47304,573
+North Carolina,All modes,2007,363549,267770,52366,463
+North Carolina,Single modes,2012,348747,214998,43279,276
+North Carolina,Single modes,2007,321289,258844,46632,232
+North Carolina,Truck,2012,336156,205443,37270,253
+North Carolina,Truck,2007,311617,248060,41290,216
+North Carolina,For-hire truck,2012,231911,103848,31451,416
+North Carolina,For-hire truck,2007,197509,136806,33330,529
+North Carolina,Private truck,2012,104245,101595,5819,55
+North Carolina,Private truck,2007,114108,111254,7960,69
+North Carolina,Rail,2012,3737,9202,5875,741
+North Carolina,Rail,2007,4235,10721,5232,244
+North Carolina,Water,2012,0,0,0,0
+North Carolina,Water,2007,S,S,S,S
+North Carolina,Deep sea,2012,0,0,0,0
+North Carolina,Deep sea,2007,S,S,S,S
+North Carolina,Air (incl truck and air),2012,8796,83,131,1200
+North Carolina,Air (incl truck and air),2007,5399,62,110,775
+North Carolina,Pipeline,2012,S,S,S,S
+North Carolina,Pipeline,2007,0,0,S,S
+North Carolina,Multiple modes,2012,36985,5672,4025,825
+North Carolina,Multiple modes,2007,32719,6401,4727,720
+North Carolina,"Parcel, U.S.P.S. or courier",2012,33888,619,447,825
+North Carolina,"Parcel, U.S.P.S. or courier",2007,28975,896,628,719
+North Carolina,Truck and rail,2012,2749,4964,3464,946
+North Carolina,Truck and rail,2007,2873,4970,3764,662
+North Carolina,Truck and water,2012,348,88,114,1795
+North Carolina,Truck and water,2007,847,S,320,2860
+North Carolina,Rail and water,2012,0,0,0,0
+North Carolina,Rail and water,2007,S,S,S,S
+North Carolina,Other multiple modes,2012,0,0,0,0
+North Carolina,Other multiple modes,2007,22,7,5,580
+North Carolina,Other modes,2012,0,0,0,0
+North Carolina,Other modes,2007,9541,2525,1007,101
+North Dakota,All modes,2012,45743,88071,31915,228
+North Dakota,All modes,2007,26743,95671,31700,386
+North Dakota,Single modes,2012,41962,69809,29643,74
+North Dakota,Single modes,2007,24018,64697,29404,130
+North Dakota,Truck,2012,31151,44365,6967,67
+North Dakota,Truck,2007,18626,41610,5506,111
+North Dakota,For-hire truck,2012,14348,18434,5733,S
+North Dakota,For-hire truck,2007,8480,9298,3667,393
+North Dakota,Private truck,2012,16804,25931,1234,75
+North Dakota,Private truck,2007,10146,32313,1839,71
+North Dakota,Rail,2012,8872,22601,22605,1123
+North Dakota,Rail,2007,4821,22288,23737,1062
+North Dakota,Air (incl truck and air),2012,48,1,1,1726
+North Dakota,Air (incl truck and air),2007,S,S,S,1817
+North Dakota,Pipeline,2012,1891,2842,S,S
+North Dakota,Pipeline,2007,S,S,S,S
+North Dakota,Multiple modes,2012,3489,1572,2167,593
+North Dakota,Multiple modes,2007,2209,1367,1597,846
+North Dakota,"Parcel, U.S.P.S. or courier",2012,2442,56,23,592
+North Dakota,"Parcel, U.S.P.S. or courier",2007,1415,49,30,843
+North Dakota,Truck and rail,2012,1040,1515,2138,1477
+North Dakota,Truck and rail,2007,617,1270,1434,1190
+North Dakota,Truck and water,2012,S,S,S,2922
+North Dakota,Truck and water,2007,95,11,S,6617
+North Dakota,Rail and water,2012,0,0,0,0
+North Dakota,Rail and water,2007,S,S,S,S
+North Dakota,Other multiple modes,2012,0,0,0,0
+North Dakota,Other multiple modes,2007,81,S,S,2030
+North Dakota,Other modes,2012,291,16690,105,6
+North Dakota,Other modes,2007,516,29607,699,42
+Ohio,All modes,2012,587929,449851,81668,497
+Ohio,All modes,2007,563187,475857,96370,580
+Ohio,Single modes,2012,517872,429964,73589,229
+Ohio,Single modes,2007,473247,450725,81054,315
+Ohio,Truck,2012,458467,355460,56239,213
+Ohio,Truck,2007,437806,370509,58488,308
+Ohio,For-hire truck,2012,334894,216360,49290,454
+Ohio,For-hire truck,2007,289777,188590,46505,635
+Ohio,Private truck,2012,123573,139100,6949,62
+Ohio,Private truck,2007,148029,181919,11983,100
+Ohio,Rail,2012,19467,38448,14118,503
+Ohio,Rail,2007,23740,59644,19719,516
+Ohio,Water,2012,626,6337,1521,S
+Ohio,Water,2007,457,7591,2041,S
+Ohio,Inland water,2012,589,6255,1414,S
+Ohio,Inland water,2007,457,7591,2041,S
+Ohio,Multiple Waterways,2012,37,81,107,1314
+Ohio,Multiple Waterways,2007,X,X,X,X
+Ohio,Air (incl truck and air),2012,13714,404,380,1106
+Ohio,Air (incl truck and air),2007,3173,172,133,1121
+Ohio,Pipeline,2012,25598,29314,S,S
+Ohio,Pipeline,2007,8071,12808,S,S
+Ohio,Multiple modes,2012,70056,19887,8080,695
+Ohio,Multiple modes,2007,81159,19033,14200,782
+Ohio,"Parcel, U.S.P.S. or courier",2012,61479,1522,973,695
+Ohio,"Parcel, U.S.P.S. or courier",2007,68898,1383,1010,782
+Ohio,Truck and rail,2012,7052,7292,5250,969
+Ohio,Truck and rail,2007,11228,14228,9993,787
+Ohio,Truck and water,2012,920,S,631,2438
+Ohio,Truck and water,2007,606,793,S,2586
+Ohio,Rail and water,2012,604,5560,1217,453
+Ohio,Rail and water,2007,119,1554,608,2076
+Ohio,Other multiple modes,2012,S,S,S,S
+Ohio,Other multiple modes,2007,309,S,1635,2948
+Ohio,Other modes,2012,0,0,0,0
+Ohio,Other modes,2007,8781,6100,1116,60
+Oklahoma,All modes,2012,169262,217905,51251,531
+Oklahoma,All modes,2007,116806,184134,40620,344
+Oklahoma,Single modes,2012,160379,214465,49389,149
+Oklahoma,Single modes,2007,105260,175266,35411,171
+Oklahoma,Truck,2012,138341,178007,30181,139
+Oklahoma,Truck,2007,93940,144915,22498,163
+Oklahoma,For-hire truck,2012,85398,100356,25950,294
+Oklahoma,For-hire truck,2007,50069,57832,13682,419
+Oklahoma,Private truck,2012,52944,77651,4231,44
+Oklahoma,Private truck,2007,43872,87083,8816,72
+Oklahoma,Rail,2012,9182,19706,13497,657
+Oklahoma,Rail,2007,5381,20680,12777,608
+Oklahoma,Water,2012,1400,4109,3958,863
+Oklahoma,Water,2007,0,0,0,0
+Oklahoma,Inland water,2012,1400,4109,3958,863
+Oklahoma,Inland water,2007,0,0,0,0
+Oklahoma,Air (incl truck and air),2012,1144,36,49,1202
+Oklahoma,Air (incl truck and air),2007,550,11,S,1062
+Oklahoma,Pipeline,2012,S,S,S,S
+Oklahoma,Pipeline,2007,5389,9660,S,S
+Oklahoma,Multiple modes,2012,8884,3441,1862,859
+Oklahoma,Multiple modes,2007,8085,7224,4659,674
+Oklahoma,"Parcel, U.S.P.S. or courier",2012,7551,196,146,859
+Oklahoma,"Parcel, U.S.P.S. or courier",2007,6826,169,122,673
+Oklahoma,Truck and rail,2012,1216,3229,1685,645
+Oklahoma,Truck and rail,2007,969,6718,4013,770
+Oklahoma,Truck and water,2012,S,S,30,3144
+Oklahoma,Truck and water,2007,290,S,S,3190
+Oklahoma,Other modes,2012,0,0,0,0
+Oklahoma,Other modes,2007,3461,1644,550,52
+Oregon,All modes,2012,147065,106742,31974,890
+Oregon,All modes,2007,146886,184738,49849,793
+Oregon,Single modes,2012,130160,99682,26325,325
+Oregon,Single modes,2007,111590,165677,38252,210
+Oregon,Truck,2012,101027,89042,16643,285
+Oregon,Truck,2007,101093,149917,27962,195
+Oregon,For-hire truck,2012,63852,40436,14351,884
+Oregon,For-hire truck,2007,55081,74555,24746,722
+Oregon,Private truck,2012,37175,48606,2292,35
+Oregon,Private truck,2007,46012,75363,3216,52
+Oregon,Rail,2012,S,8231,8361,1528
+Oregon,Rail,2007,3353,7204,9889,1276
+Oregon,Water,2012,882,2325,S,2437
+Oregon,Water,2007,1859,8454,379,1768
+Oregon,Inland water,2012,S,S,S,S
+Oregon,Inland water,2007,1657,8274,119,59
+Oregon,Deep sea,2012,390,S,283,2501
+Oregon,Deep sea,2007,S,180,261,2759
+Oregon,Multiple Waterways,2012,S,S,S,1416
+Oregon,Multiple Waterways,2007,X,X,X,X
+Oregon,Air (incl truck and air),2012,20253,57,72,1476
+Oregon,Air (incl truck and air),2007,5262,13,21,1643
+Oregon,Pipeline,2012,15,27,S,S
+Oregon,Pipeline,2007,23,89,S,S
+Oregon,Multiple modes,2012,16905,7060,5649,1349
+Oregon,Multiple modes,2007,28450,8312,11083,1486
+Oregon,"Parcel, U.S.P.S. or courier",2012,13976,280,356,1349
+Oregon,"Parcel, U.S.P.S. or courier",2007,24706,361,427,1483
+Oregon,Truck and rail,2012,2269,4974,4840,1501
+Oregon,Truck and rail,2007,2566,S,9376,1601
+Oregon,Truck and water,2012,661,S,452,2113
+Oregon,Truck and water,2007,1153,482,1184,2610
+Oregon,Rail and water,2012,0,0,0,0
+Oregon,Rail and water,2007,S,S,S,S
+Oregon,Other multiple modes,2012,0,0,0,0
+Oregon,Other multiple modes,2007,11,13,35,2685
+Oregon,Other modes,2012,0,0,0,0
+Oregon,Other modes,2007,6846,10749,514,S
+Pennsylvania,All modes,2012,550644,418478,76704,517
+Pennsylvania,All modes,2007,489415,500393,88690,639
+Pennsylvania,Single modes,2012,475691,397789,67161,170
+Pennsylvania,Single modes,2007,405226,483263,77177,186
+Pennsylvania,Truck,2012,440574,349506,50920,152
+Pennsylvania,Truck,2007,374836,410469,54596,165
+Pennsylvania,For-hire truck,2012,275012,171370,40383,384
+Pennsylvania,For-hire truck,2007,221090,202960,43133,516
+Pennsylvania,Private truck,2012,165562,178137,10537,49
+Pennsylvania,Private truck,2007,153746,207509,11463,54
+Pennsylvania,Rail,2012,11971,33895,15856,656
+Pennsylvania,Rail,2007,18514,53673,21077,822
+Pennsylvania,Water,2012,S,3517,201,S
+Pennsylvania,Water,2007,S,S,S,S
+Pennsylvania,Inland water,2012,S,S,98,S
+Pennsylvania,Inland water,2007,S,S,S,S
+Pennsylvania,Multiple Waterways,2012,S,S,S,S
+Pennsylvania,Multiple Waterways,2007,X,X,X,X
+Pennsylvania,Air (incl truck and air),2012,11288,135,112,928
+Pennsylvania,Air (incl truck and air),2007,4136,69,107,1194
+Pennsylvania,Pipeline,2012,S,S,S,S
+Pennsylvania,Pipeline,2007,6713,16997,S,S
+Pennsylvania,Multiple modes,2012,74953,20690,9542,669
+Pennsylvania,Multiple modes,2007,75080,13269,9732,886
+Pennsylvania,"Parcel, U.S.P.S. or courier",2012,71921,1772,932,669
+Pennsylvania,"Parcel, U.S.P.S. or courier",2007,68187,1561,1126,886
+Pennsylvania,Truck and rail,2012,1758,2595,1577,666
+Pennsylvania,Truck and rail,2007,3238,S,3873,962
+Pennsylvania,Truck and water,2012,287,142,114,2708
+Pennsylvania,Truck and water,2007,S,S,S,2647
+Pennsylvania,Rail and water,2012,987,16180,6921,S
+Pennsylvania,Rail and water,2007,S,S,S,5838
+Pennsylvania,Other multiple modes,2012,0,0,0,0
+Pennsylvania,Other multiple modes,2007,S,S,S,S
+Pennsylvania,Other modes,2012,0,0,0,0
+Pennsylvania,Other modes,2007,9109,3860,1781,173
+Rhode Island,All modes,2012,45575,26719,1882,381
+Rhode Island,All modes,2007,28662,13335,1945,591
+Rhode Island,Single modes,2012,39441,26651,1813,139
+Rhode Island,Single modes,2007,23199,12791,1580,130
+Rhode Island,Truck,2012,37770,26629,1775,129
+Rhode Island,Truck,2007,22634,12712,1543,120
+Rhode Island,For-hire truck,2012,26109,16325,1326,573
+Rhode Island,For-hire truck,2007,11169,4993,1290,737
+Rhode Island,Private truck,2012,11661,10303,449,17
+Rhode Island,Private truck,2007,11464,7720,253,23
+Rhode Island,Rail,2012,27,14,28,2348
+Rhode Island,Rail,2007,S,S,S,S
+Rhode Island,Water,2012,S,S,S,S
+Rhode Island,Water,2007,0,0,0,0
+Rhode Island,Inland water,2012,S,S,S,S
+Rhode Island,Inland water,2007,0,0,0,0
+Rhode Island,Air (incl truck and air),2012,S,8,10,1377
+Rhode Island,Air (incl truck and air),2007,476,9,10,1054
+Rhode Island,Multiple modes,2012,6133,68,69,914
+Rhode Island,Multiple modes,2007,5212,S,S,1087
+Rhode Island,"Parcel, U.S.P.S. or courier",2012,6123,63,55,914
+Rhode Island,"Parcel, U.S.P.S. or courier",2007,5045,115,122,1088
+Rhode Island,Truck and rail,2012,8,5,13,2597
+Rhode Island,Truck and rail,2007,S,S,S,704
+Rhode Island,Truck and water,2012,S,S,S,S
+Rhode Island,Truck and water,2007,75,S,5,S
+Rhode Island,Other modes,2012,0,0,0,0
+Rhode Island,Other modes,2007,251,S,33,S
+South Carolina,All modes,2012,159760,99936,26526,567
+South Carolina,All modes,2007,155619,144297,30835,552
+South Carolina,Single modes,2012,140680,96532,23745,255
+South Carolina,Single modes,2007,136910,138090,26477,409
+South Carolina,Truck,2012,125987,90393,20524,232
+South Carolina,Truck,2007,129869,127930,22291,394
+South Carolina,For-hire truck,2012,85263,44690,17860,495
+South Carolina,For-hire truck,2007,88493,58482,15127,911
+South Carolina,Private truck,2012,40724,45703,2664,51
+South Carolina,Private truck,2007,41376,69448,7163,217
+South Carolina,Rail,2012,8633,6016,3057,534
+South Carolina,Rail,2007,5628,10054,3938,548
+South Carolina,Water,2012,52,33,40,1202
+South Carolina,Water,2007,S,S,S,S
+South Carolina,Deep sea,2012,0,0,0,0
+South Carolina,Deep sea,2007,S,S,S,S
+South Carolina,Multiple Waterways,2012,52,33,40,1202
+South Carolina,Multiple Waterways,2007,X,X,X,X
+South Carolina,Air (incl truck and air),2012,S,90,S,1272
+South Carolina,Air (incl truck and air),2007,1318,43,69,917
+South Carolina,Pipeline,2012,0,0,S,S
+South Carolina,Pipeline,2007,14,38,S,S
+South Carolina,Multiple modes,2012,19080,3404,2781,817
+South Carolina,Multiple modes,2007,16217,S,4104,833
+South Carolina,"Parcel, U.S.P.S. or courier",2012,14317,283,211,817
+South Carolina,"Parcel, U.S.P.S. or courier",2007,11364,351,268,832
+South Carolina,Truck and rail,2012,4690,3094,2533,817
+South Carolina,Truck and rail,2007,4464,S,S,873
+South Carolina,Truck and water,2012,73,27,38,1454
+South Carolina,Truck and water,2007,379,79,94,1559
+South Carolina,Rail and water,2012,0,0,0,0
+South Carolina,Rail and water,2007,S,S,S,S
+South Carolina,Other multiple modes,2012,0,0,0,0
+South Carolina,Other multiple modes,2007,S,S,S,S
+South Carolina,Other modes,2012,0,0,0,0
+South Carolina,Other modes,2007,2491,1283,255,S
+South Dakota,All modes,2012,58621,70357,27891,328
+South Dakota,All modes,2007,26677,52093,21268,354
+South Dakota,Single modes,2012,52026,67418,23614,90
+South Dakota,Single modes,2007,22611,49287,18135,165
+South Dakota,Truck,2012,47004,53324,6030,86
+South Dakota,Truck,2007,20452,40882,6379,152
+South Dakota,For-hire truck,2012,28675,24057,4517,134
+South Dakota,For-hire truck,2007,12455,21323,5000,443
+South Dakota,Private truck,2012,18329,29267,1512,50
+South Dakota,Private truck,2007,7997,19559,1379,58
+South Dakota,Rail,2012,4770,14085,17571,1070
+South Dakota,Rail,2007,2095,8405,11755,1337
+South Dakota,Air (incl truck and air),2012,S,S,S,1646
+South Dakota,Air (incl truck and air),2007,64,1,1,1590
+South Dakota,Multiple modes,2012,6595,2939,4277,754
+South Dakota,Multiple modes,2007,3482,2159,3079,722
+South Dakota,"Parcel, U.S.P.S. or courier",2012,S,60,45,753
+South Dakota,"Parcel, U.S.P.S. or courier",2007,2685,75,52,720
+South Dakota,Truck and rail,2012,1464,2878,4232,1091
+South Dakota,Truck and rail,2007,792,2083,3022,1376
+South Dakota,Truck and water,2012,S,S,S,1764
+South Dakota,Truck and water,2007,4,1,4,3543
+South Dakota,Other modes,2012,0,0,0,0
+South Dakota,Other modes,2007,585,S,53,35
+Tennessee,All modes,2012,329399,187514,48264,653
+Tennessee,All modes,2007,433270,328935,67397,623
+Tennessee,Single modes,2012,279376,180488,43251,263
+Tennessee,Single modes,2007,370535,313831,59836,268
+Tennessee,Truck,2012,257154,164355,32646,230
+Tennessee,Truck,2007,355137,298742,51159,242
+Tennessee,For-hire truck,2012,191666,97096,28262,417
+Tennessee,For-hire truck,2007,289638,168907,44714,596
+Tennessee,Private truck,2012,65488,67258,4384,57
+Tennessee,Private truck,2007,65498,129835,6446,67
+Tennessee,Rail,2012,S,12391,8268,843
+Tennessee,Rail,2007,4664,11427,7450,745
+Tennessee,Water,2012,1398,3568,S,S
+Tennessee,Water,2007,709,3558,1199,S
+Tennessee,Inland water,2012,1342,S,S,442
+Tennessee,Inland water,2007,709,3558,1199,S
+Tennessee,Multiple Waterways,2012,56,148,298,2011
+Tennessee,Multiple Waterways,2007,X,X,X,X
+Tennessee,Air (incl truck and air),2012,5492,48,57,1180
+Tennessee,Air (incl truck and air),2007,10008,30,26,959
+Tennessee,Pipeline,2012,12,S,S,S
+Tennessee,Pipeline,2007,S,S,S,S
+Tennessee,Multiple modes,2012,50024,7025,5013,843
+Tennessee,Multiple modes,2007,56784,8089,6706,881
+Tennessee,"Parcel, U.S.P.S. or courier",2012,40020,826,671,842
+Tennessee,"Parcel, U.S.P.S. or courier",2007,51552,998,812,881
+Tennessee,Truck and rail,2012,9313,4748,3173,938
+Tennessee,Truck and rail,2007,4284,3598,2928,940
+Tennessee,Truck and water,2012,S,S,S,2356
+Tennessee,Truck and water,2007,S,S,S,3225
+Tennessee,Rail and water,2012,S,S,S,S
+Tennessee,Rail and water,2007,S,S,S,1076
+Tennessee,Other multiple modes,2012,0,0,0,0
+Tennessee,Other multiple modes,2007,22,S,S,S
+Tennessee,Other modes,2012,0,0,0,0
+Tennessee,Other modes,2007,5950,7015,854,S
+Texas,All modes,2012,1897658,1686264,243743,481
+Texas,All modes,2007,1166608,1338753,252819,553
+Texas,Single modes,2012,1731204,1657647,211957,238
+Texas,Single modes,2007,974047,1215296,210701,176
+Texas,Truck,2012,1251071,1090688,119476,203
+Texas,Truck,2007,692717,765518,110160,157
+Texas,For-hire truck,2012,757034,582156,91868,420
+Texas,For-hire truck,2007,394737,335829,85250,358
+Texas,Private truck,2012,494037,508532,27608,55
+Texas,Private truck,2007,297980,429689,24910,58
+Texas,Rail,2012,78194,123888,54191,683
+Texas,Rail,2007,75871,153046,70343,724
+Texas,Water,2012,125452,176742,25185,S
+Texas,Water,2007,31287,60170,11141,S
+Texas,Inland water,2012,106147,144228,15494,S
+Texas,Inland water,2007,24402,49349,1841,S
+Texas,Deep sea,2012,16261,28911,7786,S
+Texas,Deep sea,2007,6886,10821,9300,2237
+Texas,Multiple Waterways,2012,3044,3603,1905,428
+Texas,Multiple Waterways,2007,X,X,X,X
+Texas,Air (incl truck and air),2012,49259,297,404,1272
+Texas,Air (incl truck and air),2007,22015,220,323,1223
+Texas,Pipeline,2012,227229,266031,S,S
+Texas,Pipeline,2007,152157,236342,S,S
+Texas,Multiple modes,2012,166454,28617,S,784
+Texas,Multiple modes,2007,155352,87550,39329,969
+Texas,"Parcel, U.S.P.S. or courier",2012,144429,2214,1580,783
+Texas,"Parcel, U.S.P.S. or courier",2007,104632,2453,1843,970
+Texas,Truck and rail,2012,18973,21712,15646,884
+Texas,Truck and rail,2007,14494,17263,13775,558
+Texas,Truck and water,2012,S,S,S,3763
+Texas,Truck and water,2007,7466,17923,4259,2342
+Texas,Rail and water,2012,1370,1714,1151,749
+Texas,Rail and water,2007,7448,15217,9546,1655
+Texas,Other multiple modes,2012,0,0,0,0
+Texas,Other multiple modes,2007,21312,34694,9906,397
+Texas,Other modes,2012,0,0,0,0
+Texas,Other modes,2007,37209,35907,2790,76
+Utah,All modes,2012,108593,89129,29911,1201
+Utah,All modes,2007,106690,123245,40249,1180
+Utah,Single modes,2012,84925,77795,25298,473
+Utah,Single modes,2007,84999,118834,36417,206
+Utah,Truck,2012,71145,50912,13102,391
+Utah,Truck,2007,63493,79625,13250,166
+Utah,For-hire truck,2012,48260,30094,9985,760
+Utah,For-hire truck,2007,37160,36097,11006,643
+Utah,Private truck,2012,22884,20819,S,49
+Utah,Private truck,2007,26332,43529,2244,45
+Utah,Rail,2012,4969,S,S,965
+Utah,Rail,2007,S,33058,22768,737
+Utah,Air (incl truck and air),2012,4360,S,S,1542
+Utah,Air (incl truck and air),2007,3028,29,S,1380
+Utah,Pipeline,2012,4452,7859,S,S
+Utah,Pipeline,2007,3296,6121,S,S
+Utah,Multiple modes,2012,23521,S,4490,1411
+Utah,Multiple modes,2007,18504,3632,3426,1459
+Utah,"Parcel, U.S.P.S. or courier",2012,22008,310,375,1411
+Utah,"Parcel, U.S.P.S. or courier",2007,15296,350,409,1459
+Utah,Truck and rail,2012,973,S,1822,1385
+Utah,Truck and rail,2007,S,3265,2937,1132
+Utah,Truck and water,2012,222,40,121,2882
+Utah,Truck and water,2007,S,10,35,2918
+Utah,Rail and water,2012,S,S,S,2015
+Utah,Rail and water,2007,0,0,0,0
+Utah,Other multiple modes,2012,0,0,0,0
+Utah,Other multiple modes,2007,S,S,S,7100
+Utah,Other modes,2012,147,4207,124,29
+Utah,Other modes,2007,S,779,S,237
+Vermont,All modes,2012,24980,17862,3324,470
+Vermont,All modes,2007,17919,16034,3643,618
+Vermont,Single modes,2012,20738,17753,3204,121
+Vermont,Single modes,2007,15051,14903,3509,121
+Vermont,Truck,2012,18912,16805,2428,106
+Vermont,Truck,2007,14407,13676,2281,112
+Vermont,For-hire truck,2012,11198,8726,2036,324
+Vermont,For-hire truck,2007,6344,3768,1914,669
+Vermont,Private truck,2012,7714,8078,392,42
+Vermont,Private truck,2007,8063,9908,367,35
+Vermont,Rail,2012,138,945,772,466
+Vermont,Rail,2007,97,1186,1226,921
+Vermont,Air (incl truck and air),2012,1688,3,3,1362
+Vermont,Air (incl truck and air),2007,515,2,2,1244
+Vermont,Pipeline,2012,0,0,S,S
+Vermont,Pipeline,2007,S,S,S,S
+Vermont,Multiple modes,2012,4242,109,120,830
+Vermont,Multiple modes,2007,2582,88,83,1101
+Vermont,"Parcel, U.S.P.S. or courier",2012,3474,54,37,842
+Vermont,"Parcel, U.S.P.S. or courier",2007,2530,54,50,1101
+Vermont,Truck and rail,2012,S,54,S,S
+Vermont,Truck and rail,2007,5,S,S,S
+Vermont,Truck and water,2012,25,S,S,S
+Vermont,Truck and water,2007,48,10,S,S
+Vermont,Other modes,2012,0,0,0,0
+Vermont,Other modes,2007,286,S,52,S
+Virginia,All modes,2012,238576,173461,30082,395
+Virginia,All modes,2007,194444,246958,50629,626
+Virginia,Single modes,2012,213437,171426,28949,106
+Virginia,Single modes,2007,162401,240047,47987,388
+Virginia,Truck,2012,203978,151169,21053,102
+Virginia,Truck,2007,156076,188599,25963,375
+Virginia,For-hire truck,2012,130420,72716,17376,176
+Virginia,For-hire truck,2007,85662,92291,20002,910
+Virginia,Private truck,2012,73559,78453,3677,47
+Virginia,Private truck,2007,70415,96307,5961,53
+Virginia,Rail,2012,3565,18871,7736,414
+Virginia,Rail,2007,4262,51261,21942,471
+Virginia,Water,2012,473,1200,108,96
+Virginia,Water,2007,35,92,S,S
+Virginia,Inland water,2012,415,961,84,96
+Virginia,Inland water,2007,0,0,0,0
+Virginia,Deep sea,2012,0,0,0,0
+Virginia,Deep sea,2007,35,92,S,S
+Virginia,Multiple Waterways,2012,S,S,S,102
+Virginia,Multiple Waterways,2007,X,X,X,X
+Virginia,Air (incl truck and air),2012,5404,41,48,1184
+Virginia,Air (incl truck and air),2007,2001,S,S,1504
+Virginia,Pipeline,2012,S,S,S,S
+Virginia,Pipeline,2007,26,S,S,S
+Virginia,Multiple modes,2012,25138,2035,1132,796
+Virginia,Multiple modes,2007,26897,5146,1919,890
+Virginia,"Parcel, U.S.P.S. or courier",2012,24287,453,291,796
+Virginia,"Parcel, U.S.P.S. or courier",2007,24584,498,357,890
+Virginia,Truck and rail,2012,496,1414,662,1078
+Virginia,Truck and rail,2007,593,2255,1151,869
+Virginia,Truck and water,2012,S,S,S,3666
+Virginia,Truck and water,2007,S,S,S,S
+Virginia,Rail and water,2012,S,S,S,S
+Virginia,Rail and water,2007,S,S,S,S
+Virginia,Other multiple modes,2012,0,0,0,0
+Virginia,Other multiple modes,2007,S,39,5,134
+Virginia,Other modes,2012,0,0,0,0
+Virginia,Other modes,2007,5146,1766,723,42
+Washington,All modes,2012,296901,183138,46771,1131
+Washington,All modes,2007,215515,244906,62811,1143
+Washington,Single modes,2012,234052,172005,39225,469
+Washington,Single modes,2007,164003,207406,43651,463
+Washington,Truck,2012,150146,127349,23939,437
+Washington,Truck,2007,127098,178612,28746,376
+Washington,For-hire truck,2012,84656,59122,21425,1059
+Washington,For-hire truck,2007,70527,73077,24873,1037
+Washington,Private truck,2012,65490,68227,2514,36
+Washington,Private truck,2007,56570,105536,3873,41
+Washington,Rail,2012,8840,16706,9891,1444
+Washington,Rail,2007,5218,9357,7970,1187
+Washington,Water,2012,4548,10087,5037,1464
+Washington,Water,2007,3717,8354,S,1560
+Washington,Inland water,2012,S,6469,S,159
+Washington,Inland water,2007,S,3952,S,146
+Washington,Deep sea,2012,2881,2532,2135,1470
+Washington,Deep sea,2007,2412,S,S,1580
+Washington,Multiple Waterways,2012,S,S,S,2516
+Washington,Multiple Waterways,2007,X,X,X,X
+Washington,Air (incl truck and air),2012,56529,96,129,1550
+Washington,Air (incl truck and air),2007,S,61,116,2228
+Washington,Pipeline,2012,13988,17768,S,S
+Washington,Pipeline,2007,7899,11022,S,S
+Washington,Multiple modes,2012,62849,11133,7546,1565
+Washington,Multiple modes,2007,46714,27781,18752,1626
+Washington,"Parcel, U.S.P.S. or courier",2012,51905,572,768,1563
+Washington,"Parcel, U.S.P.S. or courier",2007,32965,585,695,1625
+Washington,Truck and rail,2012,7119,6253,4934,2253
+Washington,Truck and rail,2007,4322,2986,4773,1905
+Washington,Truck and water,2012,3503,S,1472,2261
+Washington,Truck and water,2007,5995,9401,S,1981
+Washington,Rail and water,2012,S,S,S,349
+Washington,Rail and water,2007,S,S,S,S
+Washington,Other multiple modes,2012,0,0,0,0
+Washington,Other multiple modes,2007,S,S,S,S
+Washington,Other modes,2012,0,0,0,0
+Washington,Other modes,2007,4798,9719,408,80
+West Virginia,All modes,2012,54759,174741,56674,448
+West Virginia,All modes,2007,49842,222895,85627,689
+West Virginia,Single modes,2012,50782,162874,50744,123
+West Virginia,Single modes,2007,42721,200687,75105,144
+West Virginia,Truck,2012,39476,54550,6483,120
+West Virginia,Truck,2007,32332,49751,6332,139
+West Virginia,For-hire truck,2012,26666,26261,4818,201
+West Virginia,For-hire truck,2007,20795,27434,5131,351
+West Virginia,Private truck,2012,12811,28289,1666,49
+West Virginia,Private truck,2007,11538,22318,1200,61
+West Virginia,Rail,2012,9532,99808,42532,497
+West Virginia,Rail,2007,9262,139394,66958,453
+West Virginia,Water,2012,1132,8339,1724,S
+West Virginia,Water,2007,743,S,1784,419
+West Virginia,Inland water,2012,1084,8312,1674,S
+West Virginia,Inland water,2007,743,S,1784,419
+West Virginia,Multiple Waterways,2012,S,S,S,S
+West Virginia,Multiple Waterways,2007,X,X,X,X
+West Virginia,Air (incl truck and air),2012,631,3,3,1161
+West Virginia,Air (incl truck and air),2007,S,S,S,1203
+West Virginia,Pipeline,2012,11,S,S,S
+West Virginia,Pipeline,2007,156,S,S,S
+West Virginia,Multiple modes,2012,3977,11866,5930,774
+West Virginia,Multiple modes,2007,6087,20578,10426,995
+West Virginia,"Parcel, U.S.P.S. or courier",2012,2552,59,36,775
+West Virginia,"Parcel, U.S.P.S. or courier",2007,3863,89,71,997
+West Virginia,Truck and rail,2012,206,239,215,1179
+West Virginia,Truck and rail,2007,1339,S,1362,1528
+West Virginia,Truck and water,2012,97,S,S,S
+West Virginia,Truck and water,2007,103,1523,257,S
+West Virginia,Rail and water,2012,794,7794,3523,526
+West Virginia,Rail and water,2007,S,S,S,589
+West Virginia,Other multiple modes,2012,328,2414,1666,690
+West Virginia,Other multiple modes,2007,S,2435,2467,1410
+West Virginia,Other modes,2012,0,0,0,0
+West Virginia,Other modes,2007,1034,1630,97,S
+Wisconsin,All modes,2012,311937,234984,53485,641
+Wisconsin,All modes,2007,263658,203766,64301,588
+Wisconsin,Single modes,2012,277195,230096,48873,313
+Wisconsin,Single modes,2007,221345,189832,51943,232
+Wisconsin,Truck,2012,253057,199171,35408,275
+Wisconsin,Truck,2007,214839,170402,37728,211
+Wisconsin,For-hire truck,2012,173671,118110,30421,521
+Wisconsin,For-hire truck,2007,137736,84667,30849,544
+Wisconsin,Private truck,2012,79386,81060,4987,56
+Wisconsin,Private truck,2007,77103,85734,6879,75
+Wisconsin,Rail,2012,6912,19265,13157,1108
+Wisconsin,Rail,2007,3537,18870,13557,824
+Wisconsin,Water,2012,42,658,16,25
+Wisconsin,Water,2007,S,S,S,1491
+Wisconsin,Inland water,2012,42,658,16,25
+Wisconsin,Inland water,2007,22,S,S,1495
+Wisconsin,Great Lakes,2012,0,0,0,0
+Wisconsin,Great Lakes,2007,S,S,S,S
+Wisconsin,Air (incl truck and air),2012,7217,149,152,1118
+Wisconsin,Air (incl truck and air),2007,2834,41,49,1094
+Wisconsin,Pipeline,2012,9966,10853,S,S
+Wisconsin,Pipeline,2007,S,S,S,S
+Wisconsin,Multiple modes,2012,34742,4888,4612,844
+Wisconsin,Multiple modes,2007,36297,S,S,901
+Wisconsin,"Parcel, U.S.P.S. or courier",2012,30128,866,653,843
+Wisconsin,"Parcel, U.S.P.S. or courier",2007,31687,759,602,899
+Wisconsin,Truck and rail,2012,4331,3981,3854,1237
+Wisconsin,Truck and rail,2007,4055,S,S,1182
+Wisconsin,Truck and water,2012,283,40,104,2184
+Wisconsin,Truck and water,2007,424,S,981,3989
+Wisconsin,Rail and water,2012,0,0,0,0
+Wisconsin,Rail and water,2007,S,S,S,4153
+Wisconsin,Other multiple modes,2012,0,0,0,0
+Wisconsin,Other multiple modes,2007,S,S,S,2619
+Wisconsin,Other modes,2012,0,0,0,0
+Wisconsin,Other modes,2007,6016,1984,734,75
+Wyoming,All modes,2012,25470,421925,461804,412
+Wyoming,All modes,2007,23753,550886,559160,514
+Wyoming,Single modes,2012,24246,411247,460849,147
+Wyoming,Single modes,2007,20720,529234,549472,174
+Wyoming,Truck,2012,13111,15308,5871,104
+Wyoming,Truck,2007,12555,30718,7166,105
+Wyoming,For-hire truck,2012,8092,9548,5128,226
+Wyoming,For-hire truck,2007,5181,15849,5986,415
+Wyoming,Private truck,2012,5019,5760,743,50
+Wyoming,Private truck,2007,7374,14870,1180,57
+Wyoming,Rail,2012,8667,393344,454929,1374
+Wyoming,Rail,2007,6485,484873,538992,1193
+Wyoming,Air (incl truck and air),2012,15,Z,Z,1544
+Wyoming,Air (incl truck and air),2007,18,Z,1,1565
+Wyoming,Pipeline,2012,S,S,S,S
+Wyoming,Pipeline,2007,1662,13642,S,S
+Wyoming,Multiple modes,2012,957,745,S,840
+Wyoming,Multiple modes,2007,1727,S,S,1013
+Wyoming,"Parcel, U.S.P.S. or courier",2012,882,18,15,840
+Wyoming,"Parcel, U.S.P.S. or courier",2007,S,24,22,1012
+Wyoming,Truck and rail,2012,68,339,384,1400
+Wyoming,Truck and rail,2007,39,183,208,1109
+Wyoming,Truck and water,2012,S,S,S,S
+Wyoming,Truck and water,2007,S,S,S,S
+Wyoming,Rail and water,2012,S,S,S,S
+Wyoming,Rail and water,2007,S,S,S,S
+Wyoming,Other modes,2012,268,9934,26,2
+Wyoming,Other modes,2007,S,S,S,S

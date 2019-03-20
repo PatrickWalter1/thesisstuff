@@ -1,0 +1,470 @@
+food 17:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+PCU3114223114224Z    214 non-null float64
+CANCPICORMINMEI      214 non-null float64
+CPIFABNS             214 non-null float64
+CUUR0000SAF11        214 non-null float64
+CUUR0000SEFV         214 non-null float64
+MAM1A2CAM189N        214 non-null float64
+MAM2A2CAM189N        214 non-null float64
+MAM2A3CAM189N        214 non-null float64
+MAM3A3CAM189N        214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 0.73
+Variance score: -0.13
+restaurants:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+Average of BAMLCC2A035YTRIV    214 non-null float64
+Average of BAMLCC1A013YTRIV    214 non-null float64
+CANCPICORMINMEI                214 non-null float64
+CPIFABNS                       214 non-null float64
+CUUR0000SAF11                  214 non-null float64
+CUUR0000SEFV                   214 non-null float64
+MAM2A2CAM189N                  214 non-null float64
+MAM2A3CAM189N                  214 non-null float64
+MAM3A3CAM189N                  214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 3.86
+Variance score: -8.54
+vegetables
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 15 columns):
+PCU3114223114224Z    214 non-null float64
+CURRNS               214 non-null float64
+CUUR0000SEFV         214 non-null float64
+M1NS                 214 non-null float64
+MAM1A2CAM189N        214 non-null float64
+MAM1A3CAM189N        214 non-null float64
+MAM2A2CAM189N        214 non-null float64
+MAM2A3CAM189N        214 non-null float64
+MAM3A3CAM189N        214 non-null float64
+MAM3A4CAM189N        214 non-null float64
+OCDCBN               214 non-null float64
+OCDNS                214 non-null float64
+PIEAFD01CAM661N      214 non-null float64
+TRESEGCAM052N        214 non-null int64
+TRESEGCAM194N        214 non-null int64
+dtypes: float64(13), int64(2)
+memory usage: 25.2 KB
+None
+Mean absolute error: 2.90
+Variance score: 0.32
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 10 columns):
+PCU3114223114224Z              214 non-null float64
+WPUFD4111                      214 non-null float64
+Average of BAMLCC2A035YTRIV    214 non-null float64
+Average of BAMLCC1A013YTRIV    214 non-null float64
+CPIFABNS                       214 non-null float64
+CUUR0000SAF11                  214 non-null float64
+CUUR0000SEFV                   214 non-null float64
+MAM1A2CAM189N                  214 non-null float64
+MAM2A2CAM189N                  214 non-null float64
+MAM2A3CAM189N                  214 non-null float64
+dtypes: float64(10)
+memory usage: 16.8 KB
+None
+other
+Mean absolute error: 0.86
+Variance score: -2.04
+meat:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+CHICKEN                          214 non-null float64
+Average of BAMLCC7A01015YTRIV    214 non-null float64
+CURRNS                           214 non-null float64
+MAM1A2CAM189N                    214 non-null float64
+MAM1A3CAM189N                    214 non-null float64
+MAM3A3CAM189N                    214 non-null float64
+MAM3A4CAM189N                    214 non-null float64
+OCDTIN                           214 non-null float64
+PIEAFD01CAM661N                  214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 1.39
+Variance score: 0.08
+dairy and eggs:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+WPU02                          214 non-null float64
+WPUFD4111                      214 non-null float64
+Average of BAMLCC1A013YTRIV    214 non-null float64
+CANCPIHOUMINMEI                214 non-null float64
+CPIFABNS                       214 non-null float64
+CUUR0000SAF11                  214 non-null float64
+CUUR0000SEFV                   214 non-null float64
+LFEASETTCAM647N                214 non-null float64
+OPCNRE01CAM661N                214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 1.91
+Variance score: -10.56
+bakery:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+PCU3114223114224Z              214 non-null float64
+WPU02                          214 non-null float64
+WPUFD4111                      214 non-null float64
+Average of BAMLCC1A013YTRIV    214 non-null float64
+CANCPIHOUMINMEI                214 non-null float64
+CPIFABNS                       214 non-null float64
+CUUR0000SAF11                  214 non-null float64
+CUUR0000SEFV                   214 non-null float64
+MAM2A3CAM189N                  214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 2.02
+Variance score: -5.85
+fruit
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+PCU3114223114224Z    214 non-null float64
+CURRNS               214 non-null float64
+MAM1A2CAM189N        214 non-null float64
+MAM1A3CAM189N        214 non-null float64
+MAM2A2CAM189N        214 non-null float64
+MAM2A3CAM189N        214 non-null float64
+MAM3A3CAM189N        214 non-null float64
+MAM3A4CAM189N        214 non-null float64
+PIEAFD01CAM661N      214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 2.46
+Variance score: 0.19
+all items:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 18 columns):
+CUUR0000SAF112                 214 non-null float64
+PCU3114223114224Z              214 non-null float64
+WPU02                          214 non-null float64
+WPUFD4111                      214 non-null float64
+Average of BAMLCC0A0CMTRIV     214 non-null float64
+Average of BAMLCC2A035YTRIV    214 non-null float64
+Average of BAMLCC1A013YTRIV    214 non-null float64
+CANCPICORMINMEI                214 non-null float64
+CANCPIHOUMINMEI                214 non-null float64
+CPIFABNS                       214 non-null float64
+CUUR0000SAF11                  214 non-null float64
+CUUR0000SEFV                   214 non-null float64
+LFEASETTCAM647N                214 non-null float64
+MAM2A2CAM189N                  214 non-null float64
+MAM2A3CAM189N                  214 non-null float64
+MAM3A3CAM189N                  214 non-null float64
+MAM3A4CAM189N                  214 non-null float64
+OPCNRE01CAM661N                214 non-null float64
+dtypes: float64(18)
+memory usage: 30.2 KB
+None
+Mean absolute error: 2.00
+Variance score: -16.64
+fromstores:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+PCU3114223114224Z    214 non-null float64
+CPIFABNS             214 non-null float64
+CUUR0000SAF11        214 non-null float64
+CUUR0000SEFV         214 non-null float64
+MAM1A2CAM189N        214 non-null float64
+MAM1A3CAM189N        214 non-null float64
+MAM2A2CAM189N        214 non-null float64
+MAM2A3CAM189N        214 non-null float64
+MAM3A3CAM189N        214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 1.20
+Variance score: -0.62
+beef:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+CURRNS             214 non-null float64
+M1NS               214 non-null float64
+MAM1A2CAM189N      214 non-null float64
+MAM1A3CAM189N      214 non-null float64
+MAM3A3CAM189N      214 non-null float64
+MAM3A4CAM189N      214 non-null float64
+OCDNS              214 non-null float64
+OCDTIN             214 non-null float64
+PIEAFD01CAM661N    214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 2.11
+Variance score: -0.34
+pork:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+CHICKEN                  214 non-null float64
+Average of WILLMIDCAP    214 non-null float64
+CURRNS                   214 non-null float64
+M1NS                     214 non-null float64
+OCDNS                    214 non-null float64
+OCDTIN                   214 non-null float64
+PIEAFD01CAM661N          214 non-null float64
+TCDNS                    214 non-null float64
+TRESEGCAM194N            214 non-null int64
+dtypes: float64(8), int64(1)
+memory usage: 15.1 KB
+None
+Mean absolute error: 3.09
+Variance score: -0.61
+chicken:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+CUUR0000SAF112                 214 non-null float64
+WPUFD4111                      214 non-null float64
+Average of BAMLCC1A013YTRIV    214 non-null float64
+CANCPICORMINMEI                214 non-null float64
+CANCPIHOUMINMEI                214 non-null float64
+CPIFABNS                       214 non-null float64
+CUUR0000SAF11                  214 non-null float64
+CUUR0000SEFV                   214 non-null float64
+MAM2A3CAM189N                  214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 4.04
+Variance score: -0.52
+dairy:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+IOTHERFOOD                     214 non-null float64
+Average of BAMLCC1A013YTRIV    214 non-null float64
+CANCPIHOUMINMEI                214 non-null float64
+CPIFABNS                       214 non-null float64
+CUUR0000SAF11                  214 non-null float64
+CUUR0000SEFV                   214 non-null float64
+LFEASETTCAM647N                214 non-null float64
+OPCNRE01CAM661N                214 non-null float64
+PPIACO                         214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 1.52
+Variance score: -4.08
+eggs:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 25 columns):
+CUUR0000SAF112                   214 non-null float64
+PCU3114223114224Z                214 non-null float64
+WPU02                            214 non-null float64
+WPUFD4111                        214 non-null float64
+Average of BAMLCC0A0CMTRIV       214 non-null float64
+Average of BAMLCC8A015PYTRIV     214 non-null float64
+Average of BAMLCC2A035YTRIV      214 non-null float64
+Average of BAMLCC7A01015YTRIV    214 non-null float64
+Average of BAMLCC1A013YTRIV      214 non-null float64
+CANCPICORMINMEI                  214 non-null float64
+CANPPDMMINMEI                    214 non-null float64
+CPIFABNS                         214 non-null float64
+CURRNS                           214 non-null float64
+CUUR0000SAF11                    214 non-null float64
+CUUR0000SEFV                     214 non-null float64
+INTGSBCAM193N                    214 non-null float64
+IRLTLT01CAM156N                  214 non-null float64
+MAM1A2CAM189N                    214 non-null float64
+MAM1A3CAM189N                    214 non-null float64
+MAM2A2CAM189N                    214 non-null float64
+MAM2A3CAM189N                    214 non-null float64
+MAM3A3CAM189N                    214 non-null float64
+MAM3A4CAM189N                    214 non-null float64
+PIEAFD01CAM661N                  214 non-null float64
+PIEAMP01CAM661N                  214 non-null float64
+dtypes: float64(25)
+memory usage: 41.9 KB
+None
+Mean absolute error: 6.55
+Variance score: -18.08
+coffee:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 11 columns):
+GOLD                 214 non-null float64
+TOBAC_US             214 non-null float64
+PCU3114223114224Z    214 non-null float64
+PCU3117103117101     214 non-null float64
+PCU3117103117102     214 non-null float64
+EXCHUS               214 non-null float64
+WPU02                214 non-null float64
+WPUFD4111            214 non-null float64
+MAM1A2CAM189N        214 non-null float64
+MAM1A3CAM189N        214 non-null float64
+TRESEGCAM052N        214 non-null int64
+dtypes: float64(10), int64(1)
+memory usage: 18.5 KB
+None
+Mean absolute error: 4.04
+Variance score: -11.11
+babyfood:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 12 columns):
+TOBAC_US             214 non-null float64
+PCU3114223114224Z    214 non-null float64
+CUUR0000SEFV         214 non-null float64
+MAM1A2CAM189N        214 non-null float64
+MAM1A3CAM189N        214 non-null float64
+MAM2A2CAM189N        214 non-null float64
+MAM2A3CAM189N        214 non-null float64
+MAM3A3CAM189N        214 non-null float64
+MAM3A4CAM189N        214 non-null float64
+PIEAFD01CAM661N      214 non-null float64
+TRESEGCAM052N        214 non-null int64
+TRESEGCAM194N        214 non-null int64
+dtypes: float64(10), int64(2)
+memory usage: 20.1 KB
+None
+Mean absolute error: 3.14
+Variance score: -8.27
+shelter18:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 9 columns):
+WPUFD4111                      214 non-null float64
+Average of BAMLCC1A013YTRIV    214 non-null float64
+CANCPICORMINMEI                214 non-null float64
+CANCPIHOUMINMEI                214 non-null float64
+CPIFABNS                       214 non-null float64
+CUUR0000SAF11                  214 non-null float64
+CUUR0000SEFV                   214 non-null float64
+LFEASETTCAM647N                214 non-null float64
+OPCNRE01CAM661N                214 non-null float64
+dtypes: float64(9)
+memory usage: 15.1 KB
+None
+Mean absolute error: 2.24
+Variance score: -19.63
+transportation:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 20 columns):
+IOTHERFOOD                     214 non-null float64
+CUUR0000SAF112                 214 non-null float64
+EXSZUS                         214 non-null float64
+WPU02                          214 non-null float64
+WPUFD4111                      214 non-null float64
+Average of BAMLCC0A0CMTRIV     214 non-null float64
+Average of BAMLCC2A035YTRIV    214 non-null float64
+Average of BAMLCC1A013YTRIV    214 non-null float64
+CANCPICORMINMEI                214 non-null float64
+CANCPIHOUMINMEI                214 non-null float64
+CANPPDMMINMEI                  214 non-null float64
+CPIFABNS                       214 non-null float64
+CUUR0000SAF11                  214 non-null float64
+CUUR0000SEFV                   214 non-null float64
+INTGSBCAM193N                  214 non-null float64
+LFEACNTTCAM647N                214 non-null float64
+LFEASETTCAM647N                214 non-null float64
+OPCNRE01CAM661N                214 non-null float64
+PIEAMP01CAM661N                214 non-null float64
+PPIACO                         214 non-null float64
+dtypes: float64(20)
+memory usage: 33.5 KB
+None
+Mean absolute error: 5.04
+Variance score: -13.02
+gas:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 20 columns):
+IFOOD              214 non-null float64
+IFATS_OILS         214 non-null float64
+IOTHERFOOD         214 non-null float64
+ITIMBER            214 non-null float64
+IAGRICULTURE       214 non-null float64
+COPPER             214 non-null float64
+CRUDE_PETRO        214 non-null float64
+CRUDE_BRENT        214 non-null float64
+CRUDE_DUBAI        214 non-null float64
+CRUDE_WTI          214 non-null float64
+IENERGY            214 non-null float64
+INONFUEL           214 non-null float64
+TIN                214 non-null float64
+EXSIUS             214 non-null float64
+MCOILWTICO         214 non-null float64
+WPU02120301        214 non-null float64
+PISPPR01CAM661N    214 non-null float64
+PPIACO             214 non-null float64
+VALEXPCAM052N      214 non-null float64
+WTISPLC            214 non-null float64
+dtypes: float64(20)
+memory usage: 33.5 KB
+None
+Mean absolute error: 17.08
+Variance score: -6.59
+energy25:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 20 columns):
+IFOOD                          214 non-null float64
+IOTHERFOOD                     214 non-null float64
+IAGRICULTURE                   214 non-null float64
+EXSIUS                         214 non-null float64
+WPU02                          214 non-null float64
+WPU02120301                    214 non-null float64
+WPU023                         214 non-null float64
+WPUFD4111                      214 non-null float64
+Average of BAMLCC1A013YTRIV    214 non-null float64
+CANCPIHOUMINMEI                214 non-null float64
+CANPPDMMINMEI                  214 non-null float64
+CPIFABNS                       214 non-null float64
+CUUR0000SAF11                  214 non-null float64
+LFEACNTTCAM647N                214 non-null float64
+LFEASETTCAM647N                214 non-null float64
+OPCNRE01CAM661N                214 non-null float64
+PIEAMP01CAM661N                214 non-null float64
+PISPPR01CAM661N                214 non-null float64
+PPIACO                         214 non-null float64
+VALEXPCAM052N                  214 non-null float64
+dtypes: float64(20)
+memory usage: 33.5 KB
+None
+Mean absolute error: 8.08
+Variance score: -8.97
+fishandseafood:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 214 entries, 170 to 383
+Data columns (total 13 columns):
+CURRNS             214 non-null float64
+M1NS               214 non-null float64
+MAM1A2CAM189N      214 non-null float64
+MAM1A3CAM189N      214 non-null float64
+MAM2A2CAM189N      214 non-null float64
+MAM3A3CAM189N      214 non-null float64
+MAM3A4CAM189N      214 non-null float64
+OCDNS              214 non-null float64
+OCDTIN             214 non-null float64
+PIEAFD01CAM661N    214 non-null float64
+TCDNS              214 non-null float64
+TRESEGCAM052N      214 non-null int64
+TRESEGCAM194N      214 non-null int64
+dtypes: float64(11), int64(2)
+memory usage: 21.8 KB
+None
+Mean absolute error: 5.66
+Variance score: -9.70

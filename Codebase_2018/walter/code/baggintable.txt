@@ -1,0 +1,109 @@
+\begin{table}
+	\caption{The mean absolute error and variance scores for each of the 17 linear regression models using the top 18 features selected using mutual information between each feature and the target. }
+	\label{tab:example_table}
+    \begin{tabular}{ |p{4cm}||p{4cm}|p{4cm}|p{4cm}|  }
+       \hline
+       \multicolumn{3}{|c|}{Individual Catergory Linear Regression } \\
+       \hline
+       Year    & Mean Absolute Error    & Variance Score (R2)\\
+       \hline
+       Mean of 17 Year Models on 2016    & 117.37    & -38.21\\
+       Mean of 17 Year Models on 2000    & 0.21    & 0.76\\
+       Mean of 10 Year Model on 2016    & 5.24    & -0.75\\
+       Weighted Sum of 17 Year Models on 2016   & 5.44    & -0.82\\
+       Mean of 17 Year Models on 2016 Inflation Adjusted   & 15.37    & -43.52\\
+       Mean of 10 Year Models on 2016 Inflation Adjusted    & 3.80    & -0.27\\
+       \hline
+    \end{tabular}
+\end{table}
+
+\[ w_i = 1/2^i \]
+
+
+\begin{table}
+	\caption{The mean absolute error and variance scores for the 2012 linear regresison model from the last experiment tested on test data for each of the five years in the period. }
+	\label{tab:5yearerrors}
+    \begin{tabular}{ |p{4cm}||p{4cm}|p{4cm}|p{4cm}|  }
+       \hline
+       \multicolumn{3}{|c|}{5 Year Linear Regression k=7} \\
+       \hline
+       Year    & Mean Absolute Error    & Variance Score (R2)\\
+       \hline
+       2016    & 3.21    & -4.02\\
+       2015    & 3.02    & -9.39\\
+       2014    & 0.65    & 0.55\\
+       2013    & 0.65    & -2.06\\
+       2012    & 0.65    & -0.99\\
+       \hline
+    \end{tabular}
+\end{table}
+
+
+
+\begin{table}
+	\caption{The mean absolute error and variance scores for each of the 22 individual targets from the CPI basket for the year 2017. }
+	\label{tab:example_table}
+    \begin{tabular}{ |p{5cm}||p{4cm}|p{4cm}|p{4cm}|  }
+       \hline
+       \multicolumn{3}{|c|}{Individual Category Linear Regression } \\
+       \hline
+       Category    & Mean Absolute Error    & Variance Score (R2)\\
+       \hline
+       Food 17    & 0.69    & 0.55\\
+       restaurants 17    & 3.80    & -11.92\\
+       Vegetables    & 5.79    & -0.58\\
+       Other    & 1.07    & -1.43\\
+       Meat    & 1.07    & -1.43\\
+       Dairy products and eggs    &2.56    & -9.70\\
+       Bakery    & 3.68    & -6.72\\
+       Fruit    & 4.00    & -0.53\\
+       All-items    & 1.67    & -4.13\\
+       Food purchased from stores    & 1.97    & -1.15\\
+       Fresh or frozen beef    & 7.17    & -9.90\\
+       Fresh or frozen pork    & 3.60    & -2.39\\
+       Fresh or frozen chicken    & 2.19    & -0.35\\
+       Dairy products    & 1.99    & -7.39\\
+       Eggs    & 7.57    & -3.72\\
+       Coffee    & 4.99    & -11.58\\
+       Baby foods    & 4.04    & -20.96\\
+       Shelter 18    & 2.38    & -16.09\\
+       Transportation    & 4.24    & -6.56\\
+       Gasoline    & 10.13    & -3.60\\
+       Energy 25    & -6.33    & 7.00\\
+       Fish seafood    & 5.21    & -3.28\\
+       \hline
+    \end{tabular}
+\end{table}
+
+
+
+\begin{table}
+	\caption{The mean absolute error and variance scores for each of the 17 linear regression models using the top 18 features selected using mutual information between each feature and the target. Each model was tested on the corresponding year following the last record in the sample data set for that model.}
+	\label{tab:17years}
+    \begin{tabular}{ |p{4cm}||p{4cm}|p{4cm}|p{4cm}|  }
+       \hline
+       \multicolumn{3}{|c|}{17 Linear Regression to be Used in Ensemble Methods } \\
+       \hline
+       Year    & Mean Absolute Error    & Variance Score (R2)\\
+       \hline
+       2017    & 1.14    & -1.56\\
+       2016    & 2.20    & -1.21\\
+       2015    & 0.51    & 0.49\\
+       2014    & 1.56    & -2.15\\
+       2013    & 1.83    & -17.19\\
+       2012    & 1.83    & -11.84\\
+       2011    & 2.87    & -3.58\\
+       2010    & 4.28    & -122.96\\
+       2009    & 3.44    & -41.29\\
+       2008    & 1.67    & 0.31\\
+       2007    & 2.17    & -18.15\\
+       2006    & 4.55    & -54.90\\
+       2005    & 0.86    & -0.98\\
+       2004    & 0.77    & 0.25\\
+       2003    & 2.38    & -21.41\\
+       2002    & 7.28    & -156.48\\
+       2001    & 5.06    & -35.32\\
+       \hline
+    \end{tabular}
+\end{table} 
+

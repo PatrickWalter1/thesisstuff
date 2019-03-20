@@ -1,0 +1,23 @@
+"Table 326-0020 Consumer Price Index (CPI), monthly (2002=100)(2,9)"
+Survey or program details:
+Consumer Price Index - 2301
+Geography,Products and product groups (15),Jan-2017,Feb-2017,Mar-2017,Apr-2017,May-2017,Jun-2017,Jul-2017,Aug-2017,Sep-2017,Oct-2017,Nov-2017,Dec-2017,Jan-2018,Feb-2018
+Canada,Fresh or frozen chicken,157.3,152.9,153.8,154.5,153.6,158.1,160.1,161.2,164.0,161.6,162.6,160.4,163.0,159.1
+Canada,Dairy products,133.5,132.9,133.2,133.6,133.2,132.3,132.2,132.8,131.9,131.4,131.2,132.2,132.5,132.6
+Canada,Bakery and cereal products (excluding baby food),150.4,150.5,150.7,151.6,151.2,151.7,152.3,153.0,150.8,152.9,151.6,152.3,151.0,152.0
+Canada,Bakery products,160.3,160.5,161.2,161.3,160.7,162.1,162.3,163.3,162.1,163.9,162.8,164.2,162.0,162.3
+Canada,"Fruit, fruit preparations and nuts",133.6,132.5,129.9,131.8,136.5,137.4,139.6,135.6,132.0,127.6,130.2,132.3,136.2,132.4
+Canada,Vegetables and vegetable preparations,130.9,132.9,133.9,132.9,136.3,139.4,137.8,132.6,126.3,122.9,132.0,136.5,139.9,139.9
+Canada,Fresh vegetables,129.5,131.6,132.9,131.7,136.1,139.7,137.6,130.7,122.3,118.7,130.0,136.2,141.2,141.0
+Canada,Coffee,134.1,134.3,137.4,138.1,136.2,138.0,138.3,137.0,136.2,136.0,135.5,134.2,136.0,136.1
+Canada,Other food preparations,136.7,138.2,139.1,138.9,139.9,139.3,139.1,139.5,138.5,139.0,138.5,137.0,138.2,138.7
+Canada,Baby foods,144.4,144.8,144.6,143.8,143.0,142.9,141.4,141.8,141.6,142.1,142.4,144.1,143.4,141.3
+Canada,Energy (25),155.8,151.1,149.8,157.2,151.8,148.7,147.8,150.4,154.5,151.7,157.9,155.8,159.5,159.1
+Footnotes:
+2,"The Consumer Price Index (CPI) is not a cost-of-living index. The objective behind a cost-of-living index is to measure changes in expenditures necessary for consumers to maintain a constant standard of living. The idea is that consumers would normally switch between products as the price relationship of goods changes. If, for example, consumers get the same satisfaction from drinking tea as they do from coffee, then it is possible to substitute tea for coffee if the price of tea falls relative to the price of coffee. The cheaper of the interchangeable products may be chosen. We could compute a cost-of-living index for an individual if we had complete information about that person's taste and spending habits. To do this for a large number of people, let alone the total population of Canada, is impossible. For this reason, regularly published price indexes are based on the fixed-basket concept rather than the cost-of-living concept."
+9,This table replaces CANSIM table 326-0001 which was archived with the release of April 2007 data.
+15,"The goods and services that make up the Consumer Price Index (CPI) are organized according to a hierarchical structure with the ""all-items CPI"" as the top level. Eight major components of goods and services make up the ""all-items CPI"". They are: ""food"", ""shelter"", ""household operations, furnishings and equipment"", ""clothing and footwear"", ""transportation"", ""health and personal care"", ""recreation, education and reading"", and ""alcoholic beverages and tobacco products"". These eight components are broken down into a varying number of sub-groups which are in turn broken down into other sub-groups. Indents are used to identify the components that make up each level of aggregation. For example, the eight major components appear with one indent relative to the ""all-items CPI"" to show that they are combined to obtain the ""all-items CPI"". NOTE: Some items are recombined outside the main structure of the CPI to obtain special aggregates such as ""all-items excluding food and energy"", ""energy"", ""goods"", ""services"", or ""fresh fruit and vegetables"". They are listed after the components of the main structure of the CPI following the last major component entitled ""alcoholic beverages and tobacco products""."
+25,"The special aggregate ""energy"" includes: ""electricity"", ""natural gas"", ""fuel oil and other fuels"", ""gasoline"", and ""fuel, parts and accessories for recreational vehicles""."
+Source:
+"Statistics Canada. Table 326-0020 - Consumer Price Index (CPI), monthly (2002=100 unless otherwise noted)"
+"(accessed: April 01, 2018)"
